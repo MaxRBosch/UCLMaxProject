@@ -1,0 +1,100 @@
+<ion-header [translucent]="true">
+  <ion-toolbar mode="ios">
+    <ion-buttons slot="start" display="inline-block">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title style= "position: absolute; ">{{title}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-grid>
+<!--   
+  <div class = logo  >
+  <ion-img src="../assets/img/main_name.png"></ion-img>
+</div> -->
+    <ion-row>
+   
+    </ion-row>
+  <ion-row>
+ </ion-row>
+  <ion-row>
+    <ion-card style="background-color:#259ACB; width:100%"> 
+      <ion-card-title style="text-align:center; margin-top:10px; color:white">Welcome!</ion-card-title>
+      <ion-card-content></ion-card-content>
+    </ion-card>
+    
+  </ion-row>
+  <ion-row>
+    <ion-card style="background-color:#90D377; width: 100%;"> 
+      <ion-card-title style="text-align:center; margin-top:4px; color:white">Login</ion-card-title>
+      <ion-card-content>
+
+      </ion-card-content>
+      <form [formGroup]="logi" style ='margin-left:5vw;margin-right: 5vw;' (ngSubmit)="login(logi.value)">
+        
+        <ion-item class='loginn'>
+          <ion-label>Email</ion-label>
+          <ion-textarea formControlName="email"></ion-textarea>
+        </ion-item>
+        <ion-item class='loginn'>
+          <ion-label>Password</ion-label>
+          <ion-input type="password" formControlName="password"></ion-input>
+        </ion-item>
+      
+        <button style='background-color : white; width: 20vw;margin-top: 2vh; margin-bottom: 2vh; height: 5vh; font-weight:bold;' ion-button type="submit" >Login</button>
+      </form>
+    </ion-card>
+  </ion-row>
+  <ion-row>
+    <ion-card style="background-color:#E56F49; width:100%">
+      <ion-card-title style="text-align:center; margin-top:4px; color:white">Register</ion-card-title>
+      
+   
+    
+    <form [formGroup]="regi" style ='margin-left:5vw;margin-right: 5vw; margin-top:2vh' (ngSubmit)="register(regi.value)">
+      <ion-item class='formin'>
+        <ion-label>Username</ion-label>
+        <ion-input type="text" formControlName="username"></ion-input>
+      </ion-item>
+      <div class="errors">
+        <ng-container *ngFor="let validation of messages.username">
+          <div class="error-message" *ngIf="regi.get('username').hasError(validation.type) ">
+            <!-- && (regi.get('username').dirty || regi.get('username').touched) -->
+            {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <ion-item class='formin'>
+        <ion-label>Email</ion-label>
+        <ion-textarea formControlName="email"></ion-textarea>
+      </ion-item>
+      <div class="errors">
+        <ng-container *ngFor="let validation of messages.email">
+          <div class="error-message" *ngIf="regi.get('email').hasError(validation.type)">
+            {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <ion-item class='formin'>
+        <ion-label>Password</ion-label>
+        <ion-input type="password" formControlName="password"></ion-input>
+      </ion-item>
+      <div class="errors">
+        <ng-container *ngFor="let validation of messages.password">
+          <div class="error-message" *ngIf="regi.get('password').hasError(validation.type) ">
+            {{ validation.message }}
+          </div>
+        </ng-container>
+      </div>
+      <button style='background-color : white; width: 20vw;margin-top: 2vh; margin-bottom: 2vh; height: 5vh; font-weight:bold;' [disabled] = "!regi.valid" ion-button type="submit" >Register</button>
+    </form>
+  </ion-card>
+  </ion-row>
+  <ion-row>
+    
+    
+  </ion-row>
+
+</ion-grid>
+ </ion-content>
+ 

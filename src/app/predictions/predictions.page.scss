@@ -1,0 +1,41 @@
+#tbl_btc td{
+    border: 1px solid black;
+padding:4px;
+background-color: #015f01d5;
+color:white;
+text-align:center}
+
+#tbl_btc th{border: 1px solid black;
+    padding:4px;
+    background-color: white;
+text-align:center}
+
+#tbl_eth th{border: 1px solid black;
+    padding:4px;
+    background-color: white;
+text-align:center}
+
+
+#tbl_eth td{
+    border: 1px solid black;
+padding:4px;
+background-color: #A24E33;
+color:white;
+text-align:center}
+
+ion-content{
+    --ion-background-color:black;
+  }
+ion-title, ion-toolbar, ion-header {
+    font-size: 120%;
+    color:white;
+    font-weight:bold;
+    
+    }
+
+    ion-menu-button {
+        color: var(--ion-color-primary);
+      }
+      ion-toolbar, ion-header {
+        --min-height: 60px;
+       }

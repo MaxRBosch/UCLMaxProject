@@ -1,0 +1,10 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4c6d44dc-52b2-4d5c-b334-74e2baf972e1/resourceGroups/dissertationmax/providers/Microsoft.Web/sites/thesismrbosch",
+    "appService.connections": [
+    
+    ]
+}

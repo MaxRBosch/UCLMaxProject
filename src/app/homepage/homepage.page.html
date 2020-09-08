@@ -1,0 +1,109 @@
+
+<ion-header [translucent]="true">
+  
+  <ion-toolbar mode="ios">
+    <ion-buttons slot="start" display="inline-block">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button expand="block"  color="tertiary" shape="round" (click)="this.login.logout()">
+        <ion-text style="color:white"> Logout </ion-text>
+        <ion-icon slot="icon-only" name="log-out" style='color:white'  ></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title style= "position: absolute; ">{{title}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content >
+  <ion-grid>
+
+    <ion-row>
+   
+    </ion-row>
+  <ion-row>
+ </ion-row>
+  <ion-row>
+    
+    <ion-card style="background-color:#259ACB; height:22%; "> 
+      <ion-card-title style="text-align:center; margin-top:10px; color:white">Current price ($)</ion-card-title>
+      <ion-card-content>
+  
+        <div [hidden]=!this.logged_in_wait>
+
+          <table  style='table-layout:fixed; width: 100%'>
+           
+            <tr>
+              <td><img src="assets/icon/btc_png.png"style="height:7vh;width:auto;padding-left:20vw"></td>
+              <td class='price' [innerHTML]="this.glob_price_btc"></td>
+            </tr>
+            <tr>
+              <td><img src="assets/icon/eth_png.png"style="height:7vh;width:auto; ;padding-left:20vw"></td>
+              <td class='price' [innerHTML]="this.glob_price_eth"></td>
+            </tr>
+         
+          </table>
+        </div>
+          
+      </ion-card-content>
+    </ion-card>
+  </ion-row>
+  
+  <ion-row>
+    <ion-card style="background-color:#90D377; width: 100%;"> 
+      <ion-card-title style="text-align:center; margin-top:4px; color:white">{{this.display_graph}}</ion-card-title>
+      <ion-card-content>
+        
+        <canvas #lineCanvas></canvas>
+      </ion-card-content><ion-item class="item-background-color" >
+ <img style="margin-left: 11vw; height:6vh; width:auto" (click)="get_chart(this.bitcoin,'Bitcoin')"src="assets/icon/btc_png.png">
+      <img style="margin-left: 11vw; height:6vh; width:auto"(click)="get_chart(this.ethereum,'Ethereum')"src="assets/icon/eth_png.png">
+      <img style="margin-left: 11vw; height:6vh; width:auto"(click)="get_chart(this.dollars,'Dollars')"src="assets/icon/dollar_png.png">
+    </ion-item>
+    </ion-card>
+  </ion-row>
+  <ion-row>
+
+    <ion-card style="background-color:#E56F49; width:100%">
+      <ion-card-title style="text-align:center; margin-top:4px; color:white">Current Portofolio</ion-card-title>
+    <ion-card-content style="margin-top: -5vh;" >
+      <div [hidden]=!this.logged_in_wait>
+
+      <div class='tbl'>
+        <table style='table-layout:fixed; width: 100%'>
+          
+          <tr>
+            <td>Bitcoin</td>
+            <td >{{this.bitcoin_display}}</td>
+          </tr>
+          <tr>
+            <td>Ethereum</td>
+            <td>{{this.ethereum_display}}</td>
+          </tr>
+          <tr>
+            <td>Dollars</td>
+            <td>{{this.dollars_display}}</td>
+          </tr>
+          
+        </table>
+      </div>
+
+      </div>
+    </ion-card-content>
+  </ion-card>
+  </ion-row>
+  <div [hidden]=!this.logged_in_wait>
+
+  <ion-row>
+
+    <ion-col size = "6"><div class='secondary'>
+    <ion-button (click)='buy()' >BUY</ion-button> </div> </ion-col>
+    
+      <ion-col size = "6"><div class='secondary'>
+    <ion-button (click)='sell()'>SELL</ion-button></div> </ion-col>
+  </ion-row>
+  
+</div>
+</ion-grid>
+ </ion-content>
+ 

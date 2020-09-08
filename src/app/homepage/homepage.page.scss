@@ -1,0 +1,96 @@
+
+.main_title h1 {
+  color: #ff9300;
+font-family:"Book Antiqua"}
+
+ 
+.main_title{
+  align-content: center;
+font-weight:bold;}
+
+
+.intro_text {
+  font-size: large;
+font-family: "Sans Serif"}
+.gridd{
+grid-template-columns:repeat(10,1fr);
+grid-auto-rows: auto;
+grid-template-areas:
+" x x x x x x x x x x"
+" x x i i i i i i x x "
+" x x i i i i i i x x "
+" x x x x x x x x x x "
+" x t t t t t t t t x "
+" x t t t t t t t t x "
+" b b b b x x s s s s "
+" x p p p x c c x e e"}
+
+.logo{padding-left: 2vw;
+padding-right: 2vw;
+margin-top:2vh;
+margin-bottom:2vh;}
+.tbl {
+border: 1px solid white;
+margin-top:6vh;
+background-color:#A24E33
+
+}
+.tbl td{
+text-align: center;
+vertical-align: middle;
+height:30px;
+color:white;
+font-weight:bold;
+
+}
+.price{font-size:10vw;
+color:white;}
+.overview tr td { width:50%; }
+.main ion-button{
+--background:#3483eb;
+  font-family:"Book Antiqua";
+  text-transform: none;
+  font-size: 20px;
+  width: 60vw;
+  height:10vh;
+  margin-left: auto;
+  margin-right: auto;
+margin-top:6vh;}
+.secondary ion-button{
+  font-family:"Book Antiqua";
+  text-transform: none;
+  --background:#E56F49;
+  width: 40vw;
+  margin-left: 3vw;
+  margin-right: 5vw;
+margin-top:0px;
+font-weight:bold;
+
+}
+ion-menu-button {
+color: var(--ion-color-primary);
+}
+ion-toolbar, ion-header {
+--min-height: 60px;
+}
+ion-title, ion-toolbar, ion-header {
+font-size: 120%;
+color:white;
+font-weight:bold;
+
+}
+ion-card-title, ion-card {font-weight:bold;
+}
+
+ion-content{
+  --ion-background-color:black;
+}
+
+.item-inner {
+  --background: red !important;
+}
+
+.item-background-color{
+  --ion-item-background:#015f01d5;
+  --ion-item-color:white;
+}

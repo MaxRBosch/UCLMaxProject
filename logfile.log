@@ -1,0 +1,2157 @@
+[2020-08-17T16:41:34.764] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:41:34.774] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:41:34.775] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:41:34.781] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:41:48.471] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:41:48.921] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket _lotRVhKKol0zW6pAAAA with id 85895318
+[2020-08-17T16:41:52.252] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:41:56.674] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T16:41:57.081] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:48:34.807] [ERROR] reporter - Can not load reporter "spec", it is not registered!
+  Perhaps you are missing some plugin?
+[2020-08-17T16:48:34.842] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:50:58.066] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:50:58.072] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:50:58.073] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:50:58.078] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:51:05.101] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:51:05.555] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket vQ27I3lyDguPF0CNAAAA with id 21493794
+[2020-08-17T16:51:08.242] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:51:08.292] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T16:51:08.294] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:52:05.053] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:52:05.060] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:52:05.060] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:52:05.065] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:52:12.195] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:52:12.636] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket -5deZO86_WcuWkF9AAAA with id 49486292
+[2020-08-17T16:52:15.565] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:52:15.667] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T16:52:20.126] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:54:18.740] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:54:18.745] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:54:18.746] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:54:18.751] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:54:25.638] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:54:26.111] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket XYORgik3ORAmJWqXAAAA with id 87569384
+[2020-08-17T16:54:28.927] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:54:28.987] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:54:34.356] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T16:56:30.210] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:56:30.217] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:56:30.218] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:56:30.223] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:56:37.160] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:56:37.603] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket Meuw9oNKmj8PynrjAAAA with id 38386840
+[2020-08-17T16:56:40.320] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:56:40.387] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T16:56:40.398] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:58:03.359] [ERROR] reporter - Can not load reporter "coverage", it is not registered!
+  Perhaps you are missing some plugin?
+[2020-08-17T16:58:03.387] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:58:53.982] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:58:53.990] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T16:58:53.991] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T16:58:53.995] [INFO] launcher - Starting browser Chrome
+[2020-08-17T16:59:00.715] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T16:59:01.162] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket IHmHHoGGUIIKARPUAAAA with id 76256875
+[2020-08-17T16:59:03.806] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T16:59:03.862] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T16:59:03.894] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:03:11.642] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:03:11.649] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:03:11.650] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:03:11.656] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:03:18.446] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:03:18.909] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket JDU6p7EIaLnwTkiqAAAA with id 18935721
+[2020-08-17T17:03:21.539] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:03:21.634] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:03:26.040] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:05:39.088] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:05:39.094] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:05:39.095] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:05:39.100] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:05:45.927] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:05:46.376] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket DB-bj9lRQA3EB0MMAAAA with id 19957372
+[2020-08-17T17:05:49.127] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:05:49.129] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:05:53.608] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:08:58.636] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:08:58.642] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:08:58.643] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:08:58.647] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:09:06.745] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket 9ZVSx8ohpXGk68RGAAAA with id 90668361
+[2020-08-17T17:09:54.463] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:09:54.468] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:09:54.470] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:09:54.474] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:10:02.587] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket FdNa_DRUgTiuU3RaAAAA with id 93407760
+[2020-08-17T17:12:22.579] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:12:22.584] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:12:22.584] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:12:22.593] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:12:30.279] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket 2v_6dr82-WEobOcMAAAA with id 92217590
+[2020-08-17T17:12:55.617] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:12:55.652] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:13:01.822] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:15:06.039] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:15:12.603] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:15:14.017] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:16:59.110] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:16:59.113] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:16:59.113] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:16:59.116] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:17:05.390] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:17:05.821] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket MzCyRgL0KOCvTKzvAAAA with id 75414136
+[2020-08-17T17:17:08.400] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:17:11.775] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:17:12.064] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:18:13.828] [DEBUG] config - Loading config C:\Users\Max Bosch\thesis\karma.conf.js
+[2020-08-17T17:18:13.840] [DEBUG] karma-server - Final config Config {
+  LOG_DISABLE: 'OFF',
+  LOG_ERROR: 'ERROR',
+  LOG_WARN: 'WARN',
+  LOG_INFO: 'INFO',
+  LOG_DEBUG: 'DEBUG',
+  frameworks: [ 'jasmine', '@angular-devkit/build-angular' ],
+  protocol: 'http:',
+  port: 9876,
+  listenAddress: '0.0.0.0',
+  hostname: 'localhost',
+  httpsServerConfig: {},
+  basePath: 'C:/Users/Max Bosch/thesis',
+  files: [],
+  browserConsoleLogOptions: { level: 'debug', format: '%b %T: %m', terminal: true },
+  customContextFile: null,
+  customDebugFile: null,
+  customClientContextFile: null,
+  exclude: [ 'C:/Users/Max Bosch/thesis/karma.conf.js' ],
+  logLevel: 'DEBUG',
+  colors: true,
+  autoWatch: true,
+  autoWatchBatchDelay: 250,
+  restartOnFileChange: false,
+  usePolling: false,
+  reporters: [ 'spec' ],
+  singleRun: false,
+  browsers: [ 'Chrome' ],
+  captureTimeout: 60000,
+  pingTimeout: 5000,
+  proxies: {},
+  proxyValidateSSL: true,
+  preprocessors: [Object: null prototype] {},
+  preprocessor_priority: {},
+  urlRoot: '/',
+  upstreamProxy: undefined,
+  reportSlowerThan: 0,
+  loggers: [ { type: 'file', filename: 'logfile.log' } ],
+  transports: [ 'polling', 'websocket' ],
+  forceJSONP: false,
+  plugins: [
+    {
+      'framework:jasmine': [
+        'factory',
+        [Function: initJasmine] { '$inject': [ 'config.files' ] }
+      ],
+      'reporter:karma-jasmine': [
+        'factory',
+        [Function: InjectKarmaJasmineReporter] {
+          '$inject': [ 'config.singleRun' ]
+        }
+      ]
+    },
+    {
+      'launcher:Chrome': [
+        'type',
+        [Function: ChromeBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      'launcher:ChromeHeadless': [
+        'type',
+        [Function: ChromeHeadlessBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      'launcher:ChromeCanary': [
+        'type',
+        [Function: ChromeCanaryBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      'launcher:ChromeCanaryHeadless': [
+        'type',
+        [Function: ChromeCanaryHeadlessBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      'launcher:Chromium': [
+        'type',
+        [Function: ChromiumBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      'launcher:ChromiumHeadless': [ 'type', [Function: ChromiumHeadlessBrowser] ],
+      'launcher:Dartium': [
+        'type',
+        [Function: DartiumBrowser] {
+          '$inject': [ 'baseBrowserDecorator', 'args' ]
+        }
+      ],
+      test: {
+        isJSFlags: [Function: isJSFlags],
+        sanitizeJSFlags: [Function: sanitizeJSFlags],
+        headlessGetOptions: [Function: headlessGetOptions],
+        canaryGetOptions: [Function: canaryGetOptions]
+      }
+    },
+    {
+      'reporter:kjhtml': [
+        'type',
+        [Function: initReporter] {
+          '$inject': [ 'config', 'baseReporterDecorator' ]
+        }
+      ]
+    },
+    {
+      'reporter:coverage-istanbul': [
+        'type',
+        [Function: CoverageIstanbulReporter] {
+          '$inject': [ 'baseReporterDecorator', 'logger', 'config' ]
+        }
+      ]
+    },
+    {
+      'framework:@angular-devkit/build-angular': [
+        'factory',
+        [Function: init] {
+          '$inject': [ 'config', 'emitter', 'customFileHandlers' ]
+        }
+      ],
+      'reporter:@angular-devkit/build-angular--sourcemap-reporter': [
+        'type',
+        [Function: sourceMapReporter] {
+          '$inject': [ 'baseReporterDecorator', 'config' ]
+        }
+      ],
+      'reporter:@angular-devkit/build-angular--event-reporter': [
+        'type',
+        [Function: eventReporter] {
+          '$inject': [ 'baseReporterDecorator', 'config' ]
+        }
+      ],
+      'middleware:@angular-devkit/build-angular--blocker': [ 'factory', [Function: requestBlocker] ],
+      'middleware:@angular-devkit/build-angular--fallback': [ 'factory', [Function: fallbackMiddleware] ]
+    },
+    {
+      'reporter:spec': [
+        'type',
+        [Function: SpecReporter] {
+          '$inject': [ 'baseReporterDecorator', 'formatError', 'config' ]
+        }
+      ]
+    }
+  ],
+  client: {
+    args: [],
+    useIframe: true,
+    runInParent: false,
+    captureConsole: true,
+    clearContext: false
+  },
+  defaultClient: {
+    args: [],
+    useIframe: true,
+    runInParent: false,
+    captureConsole: true,
+    clearContext: false
+  },
+  browserDisconnectTimeout: 2000,
+  browserDisconnectTolerance: 0,
+  browserNoActivityTimeout: 30000,
+  processKillTimeout: 2000,
+  concurrency: Infinity,
+  failOnEmptyTestSuite: true,
+  retryLimit: 2,
+  detached: false,
+  crossOriginAttribute: true,
+  browserSocketTimeout: 20000,
+  configFile: 'C:\\Users\\Max Bosch\\thesis\\karma.conf.js',
+  buildWebpack: {
+    options: {
+      main: 'src/test.ts',
+      polyfills: 'src/polyfills.ts',
+      tsConfig: 'tsconfig.spec.json',
+      karmaConfig: 'karma.conf.js',
+      styles: [],
+      scripts: [],
+      assets: [
+        { glob: 'favicon.ico', input: 'src/', output: '/' },
+        { glob: '**/*', input: 'src/assets', output: '/assets' }
+      ],
+      stylePreprocessorOptions: { includePaths: [] },
+      environment: undefined,
+      include: [],
+      sourceMap: true,
+      vendorSourceMap: false,
+      evalSourceMap: undefined,
+      progress: undefined,
+      watch: undefined,
+      poll: undefined,
+      preserveSymlinks: false,
+      browsers: undefined,
+      codeCoverage: false,
+      codeCoverageExclude: [],
+      fileReplacements: [],
+      reporters: [],
+      webWorkerTsConfig: undefined
+    },
+    webpackConfig: {
+      mode: 'development',
+      devtool: false,
+      profile: false,
+      resolve: {
+        extensions: [ '.ts', '.tsx', '.mjs', '.js' ],
+        symlinks: true,
+        modules: [ 'C:/Users/Max Bosch/thesis', 'node_modules' ],
+        alias: {
+          'rxjs/util/tryCatch': 'rxjs-compat/_esm2015/util/tryCatch',
+          'rxjs/util/toSubscriber': 'rxjs-compat/_esm2015/util/toSubscriber',
+          'rxjs/util/subscribeToResult': 'rxjs-compat/_esm2015/util/subscribeToResult',
+          'rxjs/util/subscribeToPromise': 'rxjs-compat/_esm2015/util/subscribeToPromise',
+          'rxjs/util/subscribeToObservable': 'rxjs-compat/_esm2015/util/subscribeToObservable',
+          'rxjs/util/subscribeToIterable': 'rxjs-compat/_esm2015/util/subscribeToIterable',
+          'rxjs/util/subscribeToArray': 'rxjs-compat/_esm2015/util/subscribeToArray',
+          'rxjs/util/subscribeTo': 'rxjs-compat/_esm2015/util/subscribeTo',
+          'rxjs/util/root': 'rxjs-compat/_esm2015/util/root',
+          'rxjs/util/pipe': 'rxjs-compat/_esm2015/util/pipe',
+          'rxjs/util/not': 'rxjs-compat/_esm2015/util/not',
+          'rxjs/util/noop': 'rxjs-compat/_esm2015/util/noop',
+          'rxjs/util/isScheduler': 'rxjs-compat/_esm2015/util/isScheduler',
+          'rxjs/util/isPromise': 'rxjs-compat/_esm2015/util/isPromise',
+          'rxjs/util/isObservable': 'rxjs-compat/_esm2015/util/isObservable',
+          'rxjs/util/isObject': 'rxjs-compat/_esm2015/util/isObject',
+          'rxjs/util/isNumeric': 'rxjs-compat/_esm2015/util/isNumeric',
+          'rxjs/util/isIterable': 'rxjs-compat/_esm2015/util/isIterable',
+          'rxjs/util/isFunction': 'rxjs-compat/_esm2015/util/isFunction',
+          'rxjs/util/isDate': 'rxjs-compat/_esm2015/util/isDate',
+          'rxjs/util/isArrayLike': 'rxjs-compat/_esm2015/util/isArrayLike',
+          'rxjs/util/isArray': 'rxjs-compat/_esm2015/util/isArray',
+          'rxjs/util/identity': 'rxjs-compat/_esm2015/util/identity',
+          'rxjs/util/hostReportError': 'rxjs-compat/_esm2015/util/hostReportError',
+          'rxjs/util/errorObject': 'rxjs-compat/_esm2015/util/errorObject',
+          'rxjs/util/applyMixins': 'rxjs-compat/_esm2015/util/applyMixins',
+          'rxjs/util/UnsubscriptionError': 'rxjs-compat/_esm2015/util/UnsubscriptionError',
+          'rxjs/util/TimeoutError': 'rxjs-compat/_esm2015/util/TimeoutError',
+          'rxjs/util/ObjectUnsubscribedError': 'rxjs-compat/_esm2015/util/ObjectUnsubscribedError',
+          'rxjs/util/Immediate': 'rxjs-compat/_esm2015/util/Immediate',
+          'rxjs/util/EmptyError': 'rxjs-compat/_esm2015/util/EmptyError',
+          'rxjs/util/ArgumentOutOfRangeError': 'rxjs-compat/_esm2015/util/ArgumentOutOfRangeError',
+          'rxjs/symbol/rxSubscriber': 'rxjs-compat/_esm2015/symbol/rxSubscriber',
+          'rxjs/symbol/observable': 'rxjs-compat/_esm2015/symbol/observable',
+          'rxjs/symbol/iterator': 'rxjs-compat/_esm2015/symbol/iterator',
+          'rxjs/scheduler/queue': 'rxjs-compat/_esm2015/scheduler/queue',
+          'rxjs/scheduler/async': 'rxjs-compat/_esm2015/scheduler/async',
+          'rxjs/scheduler/asap': 'rxjs-compat/_esm2015/scheduler/asap',
+          'rxjs/scheduler/animationFrame': 'rxjs-compat/_esm2015/scheduler/animationFrame',
+          'rxjs/operators/zipAll': 'rxjs-compat/_esm2015/operators/zipAll',
+          'rxjs/operators/zip': 'rxjs-compat/_esm2015/operators/zip',
+          'rxjs/operators/withLatestFrom': 'rxjs-compat/_esm2015/operators/withLatestFrom',
+          'rxjs/operators/windowWhen': 'rxjs-compat/_esm2015/operators/windowWhen',
+          'rxjs/operators/windowToggle': 'rxjs-compat/_esm2015/operators/windowToggle',
+          'rxjs/operators/windowTime': 'rxjs-compat/_esm2015/operators/windowTime',
+          'rxjs/operators/windowCount': 'rxjs-compat/_esm2015/operators/windowCount',
+          'rxjs/operators/window': 'rxjs-compat/_esm2015/operators/window',
+          'rxjs/operators/toArray': 'rxjs-compat/_esm2015/operators/toArray',
+          'rxjs/operators/timestamp': 'rxjs-compat/_esm2015/operators/timestamp',
+          'rxjs/operators/timeoutWith': 'rxjs-compat/_esm2015/operators/timeoutWith',
+          'rxjs/operators/timeout': 'rxjs-compat/_esm2015/operators/timeout',
+          'rxjs/operators/timeInterval': 'rxjs-compat/_esm2015/operators/timeInterval',
+          'rxjs/operators/throwIfEmpty': 'rxjs-compat/_esm2015/operators/throwIfEmpty',
+          'rxjs/operators/throttleTime': 'rxjs-compat/_esm2015/operators/throttleTime',
+          'rxjs/operators/throttle': 'rxjs-compat/_esm2015/operators/throttle',
+          'rxjs/operators/tap': 'rxjs-compat/_esm2015/operators/tap',
+          'rxjs/operators/takeWhile': 'rxjs-compat/_esm2015/operators/takeWhile',
+          'rxjs/operators/takeUntil': 'rxjs-compat/_esm2015/operators/takeUntil',
+          'rxjs/operators/takeLast': 'rxjs-compat/_esm2015/operators/takeLast',
+          'rxjs/operators/take': 'rxjs-compat/_esm2015/operators/take',
+          'rxjs/operators/switchMapTo': 'rxjs-compat/_esm2015/operators/switchMapTo',
+          'rxjs/operators/switchMap': 'rxjs-compat/_esm2015/operators/switchMap',
+          'rxjs/operators/switchAll': 'rxjs-compat/_esm2015/operators/switchAll',
+          'rxjs/operators/subscribeOn': 'rxjs-compat/_esm2015/operators/subscribeOn',
+          'rxjs/operators/startWith': 'rxjs-compat/_esm2015/operators/startWith',
+          'rxjs/operators/skipWhile': 'rxjs-compat/_esm2015/operators/skipWhile',
+          'rxjs/operators/skipUntil': 'rxjs-compat/_esm2015/operators/skipUntil',
+          'rxjs/operators/skipLast': 'rxjs-compat/_esm2015/operators/skipLast',
+          'rxjs/operators/skip': 'rxjs-compat/_esm2015/operators/skip',
+          'rxjs/operators/single': 'rxjs-compat/_esm2015/operators/single',
+          'rxjs/operators/shareReplay': 'rxjs-compat/_esm2015/operators/shareReplay',
+          'rxjs/operators/share': 'rxjs-compat/_esm2015/operators/share',
+          'rxjs/operators/sequenceEqual': 'rxjs-compat/_esm2015/operators/sequenceEqual',
+          'rxjs/operators/scan': 'rxjs-compat/_esm2015/operators/scan',
+          'rxjs/operators/sampleTime': 'rxjs-compat/_esm2015/operators/sampleTime',
+          'rxjs/operators/sample': 'rxjs-compat/_esm2015/operators/sample',
+          'rxjs/operators/retryWhen': 'rxjs-compat/_esm2015/operators/retryWhen',
+          'rxjs/operators/retry': 'rxjs-compat/_esm2015/operators/retry',
+          'rxjs/operators/repeatWhen': 'rxjs-compat/_esm2015/operators/repeatWhen',
+          'rxjs/operators/repeat': 'rxjs-compat/_esm2015/operators/repeat',
+          'rxjs/operators/refCount': 'rxjs-compat/_esm2015/operators/refCount',
+          'rxjs/operators/reduce': 'rxjs-compat/_esm2015/operators/reduce',
+          'rxjs/operators/race': 'rxjs-compat/_esm2015/operators/race',
+          'rxjs/operators/publishReplay': 'rxjs-compat/_esm2015/operators/publishReplay',
+          'rxjs/operators/publishLast': 'rxjs-compat/_esm2015/operators/publishLast',
+          'rxjs/operators/publishBehavior': 'rxjs-compat/_esm2015/operators/publishBehavior',
+          'rxjs/operators/publish': 'rxjs-compat/_esm2015/operators/publish',
+          'rxjs/operators/pluck': 'rxjs-compat/_esm2015/operators/pluck',
+          'rxjs/operators/partition': 'rxjs-compat/_esm2015/operators/partition',
+          'rxjs/operators/pairwise': 'rxjs-compat/_esm2015/operators/pairwise',
+          'rxjs/operators/onErrorResumeNext': 'rxjs-compat/_esm2015/operators/onErrorResumeNext',
+          'rxjs/operators/observeOn': 'rxjs-compat/_esm2015/operators/observeOn',
+          'rxjs/operators/multicast': 'rxjs-compat/_esm2015/operators/multicast',
+          'rxjs/operators/min': 'rxjs-compat/_esm2015/operators/min',
+          'rxjs/operators/mergeScan': 'rxjs-compat/_esm2015/operators/mergeScan',
+          'rxjs/operators/mergeMapTo': 'rxjs-compat/_esm2015/operators/mergeMapTo',
+          'rxjs/operators/mergeMap': 'rxjs-compat/_esm2015/operators/mergeMap',
+          'rxjs/operators/mergeAll': 'rxjs-compat/_esm2015/operators/mergeAll',
+          'rxjs/operators/merge': 'rxjs-compat/_esm2015/operators/merge',
+          'rxjs/operators/max': 'rxjs-compat/_esm2015/operators/max',
+          'rxjs/operators/materialize': 'rxjs-compat/_esm2015/operators/materialize',
+          'rxjs/operators/mapTo': 'rxjs-compat/_esm2015/operators/mapTo',
+          'rxjs/operators/map': 'rxjs-compat/_esm2015/operators/map',
+          'rxjs/operators/last': 'rxjs-compat/_esm2015/operators/last',
+          'rxjs/operators/isEmpty': 'rxjs-compat/_esm2015/operators/isEmpty',
+          'rxjs/operators/ignoreElements': 'rxjs-compat/_esm2015/operators/ignoreElements',
+          'rxjs/operators/groupBy': 'rxjs-compat/_esm2015/operators/groupBy',
+          'rxjs/operators/first': 'rxjs-compat/_esm2015/operators/first',
+          'rxjs/operators/findIndex': 'rxjs-compat/_esm2015/operators/findIndex',
+          'rxjs/operators/find': 'rxjs-compat/_esm2015/operators/find',
+          'rxjs/operators/finalize': 'rxjs-compat/_esm2015/operators/finalize',
+          'rxjs/operators/filter': 'rxjs-compat/_esm2015/operators/filter',
+          'rxjs/operators/expand': 'rxjs-compat/_esm2015/operators/expand',
+          'rxjs/operators/exhaustMap': 'rxjs-compat/_esm2015/operators/exhaustMap',
+          'rxjs/operators/exhaust': 'rxjs-compat/_esm2015/operators/exhaust',
+          'rxjs/operators/every': 'rxjs-compat/_esm2015/operators/every',
+          'rxjs/operators/elementAt': 'rxjs-compat/_esm2015/operators/elementAt',
+          'rxjs/operators/distinctUntilKeyChanged': 'rxjs-compat/_esm2015/operators/distinctUntilKeyChanged',
+          'rxjs/operators/distinctUntilChanged': 'rxjs-compat/_esm2015/operators/distinctUntilChanged',
+          'rxjs/operators/distinct': 'rxjs-compat/_esm2015/operators/distinct',
+          'rxjs/operators/dematerialize': 'rxjs-compat/_esm2015/operators/dematerialize',
+          'rxjs/operators/delayWhen': 'rxjs-compat/_esm2015/operators/delayWhen',
+          'rxjs/operators/delay': 'rxjs-compat/_esm2015/operators/delay',
+          'rxjs/operators/defaultIfEmpty': 'rxjs-compat/_esm2015/operators/defaultIfEmpty',
+          'rxjs/operators/debounceTime': 'rxjs-compat/_esm2015/operators/debounceTime',
+          'rxjs/operators/debounce': 'rxjs-compat/_esm2015/operators/debounce',
+          'rxjs/operators/count': 'rxjs-compat/_esm2015/operators/count',
+          'rxjs/operators/concatMapTo': 'rxjs-compat/_esm2015/operators/concatMapTo',
+          'rxjs/operators/concatMap': 'rxjs-compat/_esm2015/operators/concatMap',
+          'rxjs/operators/concatAll': 'rxjs-compat/_esm2015/operators/concatAll',
+          'rxjs/operators/concat': 'rxjs-compat/_esm2015/operators/concat',
+          'rxjs/operators/combineLatest': 'rxjs-compat/_esm2015/operators/combineLatest',
+          'rxjs/operators/combineAll': 'rxjs-compat/_esm2015/operators/combineAll',
+          'rxjs/operators/catchError': 'rxjs-compat/_esm2015/operators/catchError',
+          'rxjs/operators/bufferWhen': 'rxjs-compat/_esm2015/operators/bufferWhen',
+          'rxjs/operators/bufferToggle': 'rxjs-compat/_esm2015/operators/bufferToggle',
+          'rxjs/operators/bufferTime': 'rxjs-compat/_esm2015/operators/bufferTime',
+          'rxjs/operators/bufferCount': 'rxjs-compat/_esm2015/operators/bufferCount',
+          'rxjs/operators/buffer': 'rxjs-compat/_esm2015/operators/buffer',
+          'rxjs/operators/auditTime': 'rxjs-compat/_esm2015/operators/auditTime',
+          'rxjs/operators/audit': 'rxjs-compat/_esm2015/operators/audit',
+          'rxjs/operator/zipAll': 'rxjs-compat/_esm2015/operator/zipAll',
+          'rxjs/operator/zip': 'rxjs-compat/_esm2015/operator/zip',
+          'rxjs/operator/withLatestFrom': 'rxjs-compat/_esm2015/operator/withLatestFrom',
+          'rxjs/operator/windowWhen': 'rxjs-compat/_esm2015/operator/windowWhen',
+          'rxjs/operator/windowToggle': 'rxjs-compat/_esm2015/operator/windowToggle',
+          'rxjs/operator/windowTime': 'rxjs-compat/_esm2015/operator/windowTime',
+          'rxjs/operator/windowCount': 'rxjs-compat/_esm2015/operator/windowCount',
+          'rxjs/operator/window': 'rxjs-compat/_esm2015/operator/window',
+          'rxjs/operator/toPromise': 'rxjs-compat/_esm2015/operator/toPromise',
+          'rxjs/operator/toArray': 'rxjs-compat/_esm2015/operator/toArray',
+          'rxjs/operator/timestamp': 'rxjs-compat/_esm2015/operator/timestamp',
+          'rxjs/operator/timeoutWith': 'rxjs-compat/_esm2015/operator/timeoutWith',
+          'rxjs/operator/timeout': 'rxjs-compat/_esm2015/operator/timeout',
+          'rxjs/operator/timeInterval': 'rxjs-compat/_esm2015/operator/timeInterval',
+          'rxjs/operator/throttleTime': 'rxjs-compat/_esm2015/operator/throttleTime',
+          'rxjs/operator/throttle': 'rxjs-compat/_esm2015/operator/throttle',
+          'rxjs/operator/takeWhile': 'rxjs-compat/_esm2015/operator/takeWhile',
+          'rxjs/operator/takeUntil': 'rxjs-compat/_esm2015/operator/takeUntil',
+          'rxjs/operator/takeLast': 'rxjs-compat/_esm2015/operator/takeLast',
+          'rxjs/operator/take': 'rxjs-compat/_esm2015/operator/take',
+          'rxjs/operator/switchMapTo': 'rxjs-compat/_esm2015/operator/switchMapTo',
+          'rxjs/operator/switchMap': 'rxjs-compat/_esm2015/operator/switchMap',
+          'rxjs/operator/switch': 'rxjs-compat/_esm2015/operator/switch',
+          'rxjs/operator/subscribeOn': 'rxjs-compat/_esm2015/operator/subscribeOn',
+          'rxjs/operator/startWith': 'rxjs-compat/_esm2015/operator/startWith',
+          'rxjs/operator/skipWhile': 'rxjs-compat/_esm2015/operator/skipWhile',
+          'rxjs/operator/skipUntil': 'rxjs-compat/_esm2015/operator/skipUntil',
+          'rxjs/operator/skipLast': 'rxjs-compat/_esm2015/operator/skipLast',
+          'rxjs/operator/skip': 'rxjs-compat/_esm2015/operator/skip',
+          'rxjs/operator/single': 'rxjs-compat/_esm2015/operator/single',
+          'rxjs/operator/shareReplay': 'rxjs-compat/_esm2015/operator/shareReplay',
+          'rxjs/operator/share': 'rxjs-compat/_esm2015/operator/share',
+          'rxjs/operator/sequenceEqual': 'rxjs-compat/_esm2015/operator/sequenceEqual',
+          'rxjs/operator/scan': 'rxjs-compat/_esm2015/operator/scan',
+          'rxjs/operator/sampleTime': 'rxjs-compat/_esm2015/operator/sampleTime',
+          'rxjs/operator/sample': 'rxjs-compat/_esm2015/operator/sample',
+          'rxjs/operator/retryWhen': 'rxjs-compat/_esm2015/operator/retryWhen',
+          'rxjs/operator/retry': 'rxjs-compat/_esm2015/operator/retry',
+          'rxjs/operator/repeatWhen': 'rxjs-compat/_esm2015/operator/repeatWhen',
+          'rxjs/operator/repeat': 'rxjs-compat/_esm2015/operator/repeat',
+          'rxjs/operator/reduce': 'rxjs-compat/_esm2015/operator/reduce',
+          'rxjs/operator/race': 'rxjs-compat/_esm2015/operator/race',
+          'rxjs/operator/publishReplay': 'rxjs-compat/_esm2015/operator/publishReplay',
+          'rxjs/operator/publishLast': 'rxjs-compat/_esm2015/operator/publishLast',
+          'rxjs/operator/publishBehavior': 'rxjs-compat/_esm2015/operator/publishBehavior',
+          'rxjs/operator/publish': 'rxjs-compat/_esm2015/operator/publish',
+          'rxjs/operator/pluck': 'rxjs-compat/_esm2015/operator/pluck',
+          'rxjs/operator/partition': 'rxjs-compat/_esm2015/operator/partition',
+          'rxjs/operator/pairwise': 'rxjs-compat/_esm2015/operator/pairwise',
+          'rxjs/operator/onErrorResumeNext': 'rxjs-compat/_esm2015/operator/onErrorResumeNext',
+          'rxjs/operator/observeOn': 'rxjs-compat/_esm2015/operator/observeOn',
+          'rxjs/operator/multicast': 'rxjs-compat/_esm2015/operator/multicast',
+          'rxjs/operator/min': 'rxjs-compat/_esm2015/operator/min',
+          'rxjs/operator/mergeScan': 'rxjs-compat/_esm2015/operator/mergeScan',
+          'rxjs/operator/mergeMapTo': 'rxjs-compat/_esm2015/operator/mergeMapTo',
+          'rxjs/operator/mergeMap': 'rxjs-compat/_esm2015/operator/mergeMap',
+          'rxjs/operator/mergeAll': 'rxjs-compat/_esm2015/operator/mergeAll',
+          'rxjs/operator/merge': 'rxjs-compat/_esm2015/operator/merge',
+          'rxjs/operator/max': 'rxjs-compat/_esm2015/operator/max',
+          'rxjs/operator/materialize': 'rxjs-compat/_esm2015/operator/materialize',
+          'rxjs/operator/mapTo': 'rxjs-compat/_esm2015/operator/mapTo',
+          'rxjs/operator/map': 'rxjs-compat/_esm2015/operator/map',
+          'rxjs/operator/let': 'rxjs-compat/_esm2015/operator/let',
+          'rxjs/operator/last': 'rxjs-compat/_esm2015/operator/last',
+          'rxjs/operator/isEmpty': 'rxjs-compat/_esm2015/operator/isEmpty',
+          'rxjs/operator/ignoreElements': 'rxjs-compat/_esm2015/operator/ignoreElements',
+          'rxjs/operator/groupBy': 'rxjs-compat/_esm2015/operator/groupBy',
+          'rxjs/operator/first': 'rxjs-compat/_esm2015/operator/first',
+          'rxjs/operator/findIndex': 'rxjs-compat/_esm2015/operator/findIndex',
+          'rxjs/operator/find': 'rxjs-compat/_esm2015/operator/find',
+          'rxjs/operator/finally': 'rxjs-compat/_esm2015/operator/finally',
+          'rxjs/operator/filter': 'rxjs-compat/_esm2015/operator/filter',
+          'rxjs/operator/expand': 'rxjs-compat/_esm2015/operator/expand',
+          'rxjs/operator/exhaustMap': 'rxjs-compat/_esm2015/operator/exhaustMap',
+          'rxjs/operator/exhaust': 'rxjs-compat/_esm2015/operator/exhaust',
+          'rxjs/operator/every': 'rxjs-compat/_esm2015/operator/every',
+          'rxjs/operator/elementAt': 'rxjs-compat/_esm2015/operator/elementAt',
+          'rxjs/operator/do': 'rxjs-compat/_esm2015/operator/do',
+          'rxjs/operator/distinctUntilKeyChanged': 'rxjs-compat/_esm2015/operator/distinctUntilKeyChanged',
+          'rxjs/operator/distinctUntilChanged': 'rxjs-compat/_esm2015/operator/distinctUntilChanged',
+          'rxjs/operator/distinct': 'rxjs-compat/_esm2015/operator/distinct',
+          'rxjs/operator/dematerialize': 'rxjs-compat/_esm2015/operator/dematerialize',
+          'rxjs/operator/delayWhen': 'rxjs-compat/_esm2015/operator/delayWhen',
+          'rxjs/operator/delay': 'rxjs-compat/_esm2015/operator/delay',
+          'rxjs/operator/defaultIfEmpty': 'rxjs-compat/_esm2015/operator/defaultIfEmpty',
+          'rxjs/operator/debounceTime': 'rxjs-compat/_esm2015/operator/debounceTime',
+          'rxjs/operator/debounce': 'rxjs-compat/_esm2015/operator/debounce',
+          'rxjs/operator/count': 'rxjs-compat/_esm2015/operator/count',
+          'rxjs/operator/concatMapTo': 'rxjs-compat/_esm2015/operator/concatMapTo',
+          'rxjs/operator/concatMap': 'rxjs-compat/_esm2015/operator/concatMap',
+          'rxjs/operator/concatAll': 'rxjs-compat/_esm2015/operator/concatAll',
+          'rxjs/operator/concat': 'rxjs-compat/_esm2015/operator/concat',
+          'rxjs/operator/combineLatest': 'rxjs-compat/_esm2015/operator/combineLatest',
+          'rxjs/operator/combineAll': 'rxjs-compat/_esm2015/operator/combineAll',
+          'rxjs/operator/catch': 'rxjs-compat/_esm2015/operator/catch',
+          'rxjs/operator/bufferWhen': 'rxjs-compat/_esm2015/operator/bufferWhen',
+          'rxjs/operator/bufferToggle': 'rxjs-compat/_esm2015/operator/bufferToggle',
+          'rxjs/operator/bufferTime': 'rxjs-compat/_esm2015/operator/bufferTime',
+          'rxjs/operator/bufferCount': 'rxjs-compat/_esm2015/operator/bufferCount',
+          'rxjs/operator/buffer': 'rxjs-compat/_esm2015/operator/buffer',
+          'rxjs/operator/auditTime': 'rxjs-compat/_esm2015/operator/auditTime',
+          'rxjs/operator/audit': 'rxjs-compat/_esm2015/operator/audit',
+          'rxjs/observable/zip': 'rxjs-compat/_esm2015/observable/zip',
+          'rxjs/observable/using': 'rxjs-compat/_esm2015/observable/using',
+          'rxjs/observable/timer': 'rxjs-compat/_esm2015/observable/timer',
+          'rxjs/observable/throw': 'rxjs-compat/_esm2015/observable/throw',
+          'rxjs/observable/range': 'rxjs-compat/_esm2015/observable/range',
+          'rxjs/observable/race': 'rxjs-compat/_esm2015/observable/race',
+          'rxjs/observable/pairs': 'rxjs-compat/_esm2015/observable/pairs',
+          'rxjs/observable/onErrorResumeNext': 'rxjs-compat/_esm2015/observable/onErrorResumeNext',
+          'rxjs/observable/of': 'rxjs-compat/_esm2015/observable/of',
+          'rxjs/observable/never': 'rxjs-compat/_esm2015/observable/never',
+          'rxjs/observable/merge': 'rxjs-compat/_esm2015/observable/merge',
+          'rxjs/observable/interval': 'rxjs-compat/_esm2015/observable/interval',
+          'rxjs/observable/if': 'rxjs-compat/_esm2015/observable/if',
+          'rxjs/observable/generate': 'rxjs-compat/_esm2015/observable/generate',
+          'rxjs/observable/fromPromise': 'rxjs-compat/_esm2015/observable/fromPromise',
+          'rxjs/observable/fromIterable': 'rxjs-compat/_esm2015/observable/fromIterable',
+          'rxjs/observable/fromEventPattern': 'rxjs-compat/_esm2015/observable/fromEventPattern',
+          'rxjs/observable/fromEvent': 'rxjs-compat/_esm2015/observable/fromEvent',
+          'rxjs/observable/fromArray': 'rxjs-compat/_esm2015/observable/fromArray',
+          'rxjs/observable/from': 'rxjs-compat/_esm2015/observable/from',
+          'rxjs/observable/forkJoin': 'rxjs-compat/_esm2015/observable/forkJoin',
+          'rxjs/observable/empty': 'rxjs-compat/_esm2015/observable/empty',
+          'rxjs/observable/dom/webSocket': 'rxjs-compat/_esm2015/observable/dom/webSocket',
+          'rxjs/observable/dom/ajax': 'rxjs-compat/_esm2015/observable/dom/ajax',
+          'rxjs/observable/dom/WebSocketSubject': 'rxjs-compat/_esm2015/observable/dom/WebSocketSubject',
+          'rxjs/observable/dom/AjaxObservable': 'rxjs-compat/_esm2015/observable/dom/AjaxObservable',
+          'rxjs/observable/defer': 'rxjs-compat/_esm2015/observable/defer',
+          'rxjs/observable/concat': 'rxjs-compat/_esm2015/observable/concat',
+          'rxjs/observable/combineLatest': 'rxjs-compat/_esm2015/observable/combineLatest',
+          'rxjs/observable/bindNodeCallback': 'rxjs-compat/_esm2015/observable/bindNodeCallback',
+          'rxjs/observable/bindCallback': 'rxjs-compat/_esm2015/observable/bindCallback',
+          'rxjs/observable/UsingObservable': 'rxjs-compat/_esm2015/observable/UsingObservable',
+          'rxjs/observable/TimerObservable': 'rxjs-compat/_esm2015/observable/TimerObservable',
+          'rxjs/observable/SubscribeOnObservable': 'rxjs-compat/_esm2015/observable/SubscribeOnObservable',
+          'rxjs/observable/ScalarObservable': 'rxjs-compat/_esm2015/observable/ScalarObservable',
+          'rxjs/observable/RangeObservable': 'rxjs-compat/_esm2015/observable/RangeObservable',
+          'rxjs/observable/PromiseObservable': 'rxjs-compat/_esm2015/observable/PromiseObservable',
+          'rxjs/observable/PairsObservable': 'rxjs-compat/_esm2015/observable/PairsObservable',
+          'rxjs/observable/NeverObservable': 'rxjs-compat/_esm2015/observable/NeverObservable',
+          'rxjs/observable/IteratorObservable': 'rxjs-compat/_esm2015/observable/IteratorObservable',
+          'rxjs/observable/IntervalObservable': 'rxjs-compat/_esm2015/observable/IntervalObservable',
+          'rxjs/observable/IfObservable': 'rxjs-compat/_esm2015/observable/IfObservable',
+          'rxjs/observable/GenerateObservable': 'rxjs-compat/_esm2015/observable/GenerateObservable',
+          'rxjs/observable/FromObservable': 'rxjs-compat/_esm2015/observable/FromObservable',
+          'rxjs/observable/FromEventPatternObservable': 'rxjs-compat/_esm2015/observable/FromEventPatternObservable',
+          'rxjs/observable/FromEventObservable': 'rxjs-compat/_esm2015/observable/FromEventObservable',
+          'rxjs/observable/ForkJoinObservable': 'rxjs-compat/_esm2015/observable/ForkJoinObservable',
+          'rxjs/observable/ErrorObservable': 'rxjs-compat/_esm2015/observable/ErrorObservable',
+          'rxjs/observable/EmptyObservable': 'rxjs-compat/_esm2015/observable/EmptyObservable',
+          'rxjs/observable/DeferObservable': 'rxjs-compat/_esm2015/observable/DeferObservable',
+          'rxjs/observable/ConnectableObservable': 'rxjs-compat/_esm2015/observable/ConnectableObservable',
+          'rxjs/observable/BoundNodeCallbackObservable': 'rxjs-compat/_esm2015/observable/BoundNodeCallbackObservable',
+          'rxjs/observable/BoundCallbackObservable': 'rxjs-compat/_esm2015/observable/BoundCallbackObservable',
+          'rxjs/observable/ArrayObservable': 'rxjs-compat/_esm2015/observable/ArrayObservable',
+          'rxjs/observable/ArrayLikeObservable': 'rxjs-compat/_esm2015/observable/ArrayLikeObservable',
+          'rxjs/interfaces': 'rxjs-compat/_esm2015/interfaces',
+          'rxjs/add/operator/zipAll': 'rxjs-compat/_esm2015/add/operator/zipAll',
+          'rxjs/add/operator/zip': 'rxjs-compat/_esm2015/add/operator/zip',
+          'rxjs/add/operator/withLatestFrom': 'rxjs-compat/_esm2015/add/operator/withLatestFrom',
+          'rxjs/add/operator/windowWhen': 'rxjs-compat/_esm2015/add/operator/windowWhen',
+          'rxjs/add/operator/windowToggle': 'rxjs-compat/_esm2015/add/operator/windowToggle',
+          'rxjs/add/operator/windowTime': 'rxjs-compat/_esm2015/add/operator/windowTime',
+          'rxjs/add/operator/windowCount': 'rxjs-compat/_esm2015/add/operator/windowCount',
+          'rxjs/add/operator/window': 'rxjs-compat/_esm2015/add/operator/window',
+          'rxjs/add/operator/toPromise': 'rxjs-compat/_esm2015/add/operator/toPromise',
+          'rxjs/add/operator/toArray': 'rxjs-compat/_esm2015/add/operator/toArray',
+          'rxjs/add/operator/timestamp': 'rxjs-compat/_esm2015/add/operator/timestamp',
+          'rxjs/add/operator/timeoutWith': 'rxjs-compat/_esm2015/add/operator/timeoutWith',
+          'rxjs/add/operator/timeout': 'rxjs-compat/_esm2015/add/operator/timeout',
+          'rxjs/add/operator/timeInterval': 'rxjs-compat/_esm2015/add/operator/timeInterval',
+          'rxjs/add/operator/throttleTime': 'rxjs-compat/_esm2015/add/operator/throttleTime',
+          'rxjs/add/operator/throttle': 'rxjs-compat/_esm2015/add/operator/throttle',
+          'rxjs/add/operator/takeWhile': 'rxjs-compat/_esm2015/add/operator/takeWhile',
+          'rxjs/add/operator/takeUntil': 'rxjs-compat/_esm2015/add/operator/takeUntil',
+          'rxjs/add/operator/takeLast': 'rxjs-compat/_esm2015/add/operator/takeLast',
+          'rxjs/add/operator/take': 'rxjs-compat/_esm2015/add/operator/take',
+          'rxjs/add/operator/switchMapTo': 'rxjs-compat/_esm2015/add/operator/switchMapTo',
+          'rxjs/add/operator/switchMap': 'rxjs-compat/_esm2015/add/operator/switchMap',
+          'rxjs/add/operator/switch': 'rxjs-compat/_esm2015/add/operator/switch',
+          'rxjs/add/operator/subscribeOn': 'rxjs-compat/_esm2015/add/operator/subscribeOn',
+          'rxjs/add/operator/startWith': 'rxjs-compat/_esm2015/add/operator/startWith',
+          'rxjs/add/operator/skipWhile': 'rxjs-compat/_esm2015/add/operator/skipWhile',
+          'rxjs/add/operator/skipUntil': 'rxjs-compat/_esm2015/add/operator/skipUntil',
+          'rxjs/add/operator/skipLast': 'rxjs-compat/_esm2015/add/operator/skipLast',
+          'rxjs/add/operator/skip': 'rxjs-compat/_esm2015/add/operator/skip',
+          'rxjs/add/operator/single': 'rxjs-compat/_esm2015/add/operator/single',
+          'rxjs/add/operator/shareReplay': 'rxjs-compat/_esm2015/add/operator/shareReplay',
+          'rxjs/add/operator/share': 'rxjs-compat/_esm2015/add/operator/share',
+          'rxjs/add/operator/sequenceEqual': 'rxjs-compat/_esm2015/add/operator/sequenceEqual',
+          'rxjs/add/operator/scan': 'rxjs-compat/_esm2015/add/operator/scan',
+          'rxjs/add/operator/sampleTime': 'rxjs-compat/_esm2015/add/operator/sampleTime',
+          'rxjs/add/operator/sample': 'rxjs-compat/_esm2015/add/operator/sample',
+          'rxjs/add/operator/retryWhen': 'rxjs-compat/_esm2015/add/operator/retryWhen',
+          'rxjs/add/operator/retry': 'rxjs-compat/_esm2015/add/operator/retry',
+          'rxjs/add/operator/repeatWhen': 'rxjs-compat/_esm2015/add/operator/repeatWhen',
+          'rxjs/add/operator/repeat': 'rxjs-compat/_esm2015/add/operator/repeat',
+          'rxjs/add/operator/reduce': 'rxjs-compat/_esm2015/add/operator/reduce',
+          'rxjs/add/operator/race': 'rxjs-compat/_esm2015/add/operator/race',
+          'rxjs/add/operator/publishReplay': 'rxjs-compat/_esm2015/add/operator/publishReplay',
+          'rxjs/add/operator/publishLast': 'rxjs-compat/_esm2015/add/operator/publishLast',
+          'rxjs/add/operator/publishBehavior': 'rxjs-compat/_esm2015/add/operator/publishBehavior',
+          'rxjs/add/operator/publish': 'rxjs-compat/_esm2015/add/operator/publish',
+          'rxjs/add/operator/pluck': 'rxjs-compat/_esm2015/add/operator/pluck',
+          'rxjs/add/operator/partition': 'rxjs-compat/_esm2015/add/operator/partition',
+          'rxjs/add/operator/pairwise': 'rxjs-compat/_esm2015/add/operator/pairwise',
+          'rxjs/add/operator/onErrorResumeNext': 'rxjs-compat/_esm2015/add/operator/onErrorResumeNext',
+          'rxjs/add/operator/observeOn': 'rxjs-compat/_esm2015/add/operator/observeOn',
+          'rxjs/add/operator/multicast': 'rxjs-compat/_esm2015/add/operator/multicast',
+          'rxjs/add/operator/min': 'rxjs-compat/_esm2015/add/operator/min',
+          'rxjs/add/operator/mergeScan': 'rxjs-compat/_esm2015/add/operator/mergeScan',
+          'rxjs/add/operator/mergeMapTo': 'rxjs-compat/_esm2015/add/operator/mergeMapTo',
+          'rxjs/add/operator/mergeMap': 'rxjs-compat/_esm2015/add/operator/mergeMap',
+          'rxjs/add/operator/mergeAll': 'rxjs-compat/_esm2015/add/operator/mergeAll',
+          'rxjs/add/operator/merge': 'rxjs-compat/_esm2015/add/operator/merge',
+          'rxjs/add/operator/max': 'rxjs-compat/_esm2015/add/operator/max',
+          'rxjs/add/operator/materialize': 'rxjs-compat/_esm2015/add/operator/materialize',
+          'rxjs/add/operator/mapTo': 'rxjs-compat/_esm2015/add/operator/mapTo',
+          'rxjs/add/operator/map': 'rxjs-compat/_esm2015/add/operator/map',
+          'rxjs/add/operator/let': 'rxjs-compat/_esm2015/add/operator/let',
+          'rxjs/add/operator/last': 'rxjs-compat/_esm2015/add/operator/last',
+          'rxjs/add/operator/isEmpty': 'rxjs-compat/_esm2015/add/operator/isEmpty',
+          'rxjs/add/operator/ignoreElements': 'rxjs-compat/_esm2015/add/operator/ignoreElements',
+          'rxjs/add/operator/groupBy': 'rxjs-compat/_esm2015/add/operator/groupBy',
+          'rxjs/add/operator/first': 'rxjs-compat/_esm2015/add/operator/first',
+          'rxjs/add/operator/findIndex': 'rxjs-compat/_esm2015/add/operator/findIndex',
+          'rxjs/add/operator/find': 'rxjs-compat/_esm2015/add/operator/find',
+          'rxjs/add/operator/finally': 'rxjs-compat/_esm2015/add/operator/finally',
+          'rxjs/add/operator/filter': 'rxjs-compat/_esm2015/add/operator/filter',
+          'rxjs/add/operator/expand': 'rxjs-compat/_esm2015/add/operator/expand',
+          'rxjs/add/operator/exhaustMap': 'rxjs-compat/_esm2015/add/operator/exhaustMap',
+          'rxjs/add/operator/exhaust': 'rxjs-compat/_esm2015/add/operator/exhaust',
+          'rxjs/add/operator/every': 'rxjs-compat/_esm2015/add/operator/every',
+          'rxjs/add/operator/elementAt': 'rxjs-compat/_esm2015/add/operator/elementAt',
+          'rxjs/add/operator/do': 'rxjs-compat/_esm2015/add/operator/do',
+          'rxjs/add/operator/distinctUntilKeyChanged': 'rxjs-compat/_esm2015/add/operator/distinctUntilKeyChanged',
+          'rxjs/add/operator/distinctUntilChanged': 'rxjs-compat/_esm2015/add/operator/distinctUntilChanged',
+          'rxjs/add/operator/distinct': 'rxjs-compat/_esm2015/add/operator/distinct',
+          'rxjs/add/operator/dematerialize': 'rxjs-compat/_esm2015/add/operator/dematerialize',
+          'rxjs/add/operator/delayWhen': 'rxjs-compat/_esm2015/add/operator/delayWhen',
+          'rxjs/add/operator/delay': 'rxjs-compat/_esm2015/add/operator/delay',
+          'rxjs/add/operator/defaultIfEmpty': 'rxjs-compat/_esm2015/add/operator/defaultIfEmpty',
+          'rxjs/add/operator/debounceTime': 'rxjs-compat/_esm2015/add/operator/debounceTime',
+          'rxjs/add/operator/debounce': 'rxjs-compat/_esm2015/add/operator/debounce',
+          'rxjs/add/operator/count': 'rxjs-compat/_esm2015/add/operator/count',
+          'rxjs/add/operator/concatMapTo': 'rxjs-compat/_esm2015/add/operator/concatMapTo',
+          'rxjs/add/operator/concatMap': 'rxjs-compat/_esm2015/add/operator/concatMap',
+          'rxjs/add/operator/concatAll': 'rxjs-compat/_esm2015/add/operator/concatAll',
+          'rxjs/add/operator/concat': 'rxjs-compat/_esm2015/add/operator/concat',
+          'rxjs/add/operator/combineLatest': 'rxjs-compat/_esm2015/add/operator/combineLatest',
+          'rxjs/add/operator/combineAll': 'rxjs-compat/_esm2015/add/operator/combineAll',
+          'rxjs/add/operator/catch': 'rxjs-compat/_esm2015/add/operator/catch',
+          'rxjs/add/operator/bufferWhen': 'rxjs-compat/_esm2015/add/operator/bufferWhen',
+          'rxjs/add/operator/bufferToggle': 'rxjs-compat/_esm2015/add/operator/bufferToggle',
+          'rxjs/add/operator/bufferTime': 'rxjs-compat/_esm2015/add/operator/bufferTime',
+          'rxjs/add/operator/bufferCount': 'rxjs-compat/_esm2015/add/operator/bufferCount',
+          'rxjs/add/operator/buffer': 'rxjs-compat/_esm2015/add/operator/buffer',
+          'rxjs/add/operator/auditTime': 'rxjs-compat/_esm2015/add/operator/auditTime',
+          'rxjs/add/operator/audit': 'rxjs-compat/_esm2015/add/operator/audit',
+          'rxjs/add/observable/zip': 'rxjs-compat/_esm2015/add/observable/zip',
+          'rxjs/add/observable/using': 'rxjs-compat/_esm2015/add/observable/using',
+          'rxjs/add/observable/timer': 'rxjs-compat/_esm2015/add/observable/timer',
+          'rxjs/add/observable/throw': 'rxjs-compat/_esm2015/add/observable/throw',
+          'rxjs/add/observable/range': 'rxjs-compat/_esm2015/add/observable/range',
+          'rxjs/add/observable/race': 'rxjs-compat/_esm2015/add/observable/race',
+          'rxjs/add/observable/pairs': 'rxjs-compat/_esm2015/add/observable/pairs',
+          'rxjs/add/observable/onErrorResumeNext': 'rxjs-compat/_esm2015/add/observable/onErrorResumeNext',
+          'rxjs/add/observable/of': 'rxjs-compat/_esm2015/add/observable/of',
+          'rxjs/add/observable/never': 'rxjs-compat/_esm2015/add/observable/never',
+          'rxjs/add/observable/merge': 'rxjs-compat/_esm2015/add/observable/merge',
+          'rxjs/add/observable/interval': 'rxjs-compat/_esm2015/add/observable/interval',
+          'rxjs/add/observable/if': 'rxjs-compat/_esm2015/add/observable/if',
+          'rxjs/add/observable/generate': 'rxjs-compat/_esm2015/add/observable/generate',
+          'rxjs/add/observable/fromPromise': 'rxjs-compat/_esm2015/add/observable/fromPromise',
+          'rxjs/add/observable/fromEventPattern': 'rxjs-compat/_esm2015/add/observable/fromEventPattern',
+          'rxjs/add/observable/fromEvent': 'rxjs-compat/_esm2015/add/observable/fromEvent',
+          'rxjs/add/observable/from': 'rxjs-compat/_esm2015/add/observable/from',
+          'rxjs/add/observable/forkJoin': 'rxjs-compat/_esm2015/add/observable/forkJoin',
+          'rxjs/add/observable/empty': 'rxjs-compat/_esm2015/add/observable/empty',
+          'rxjs/add/observable/dom/webSocket': 'rxjs-compat/_esm2015/add/observable/dom/webSocket',
+          'rxjs/add/observable/dom/ajax': 'rxjs-compat/_esm2015/add/observable/dom/ajax',
+          'rxjs/add/observable/defer': 'rxjs-compat/_esm2015/add/observable/defer',
+          'rxjs/add/observable/concat': 'rxjs-compat/_esm2015/add/observable/concat',
+          'rxjs/add/observable/combineLatest': 'rxjs-compat/_esm2015/add/observable/combineLatest',
+          'rxjs/add/observable/bindNodeCallback': 'rxjs-compat/_esm2015/add/observable/bindNodeCallback',
+          'rxjs/add/observable/bindCallback': 'rxjs-compat/_esm2015/add/observable/bindCallback',
+          'rxjs/Subscription': 'rxjs-compat/_esm2015/Subscription',
+          'rxjs/Subscriber': 'rxjs-compat/_esm2015/Subscriber',
+          'rxjs/SubjectSubscription': 'rxjs-compat/_esm2015/SubjectSubscription',
+          'rxjs/Subject': 'rxjs-compat/_esm2015/Subject',
+          'rxjs/Scheduler': 'rxjs-compat/_esm2015/Scheduler',
+          'rxjs/Rx': 'rxjs-compat/_esm2015/Rx',
+          'rxjs/ReplaySubject': 'rxjs-compat/_esm2015/ReplaySubject',
+          'rxjs/OuterSubscriber': 'rxjs-compat/_esm2015/OuterSubscriber',
+          'rxjs/Operator': 'rxjs-compat/_esm2015/Operator',
+          'rxjs/Observer': 'rxjs-compat/_esm2015/Observer',
+          'rxjs/Observable': 'rxjs-compat/_esm2015/Observable',
+          'rxjs/Notification': 'rxjs-compat/_esm2015/Notification',
+          'rxjs/InnerSubscriber': 'rxjs-compat/_esm2015/InnerSubscriber',
+          'rxjs/BehaviorSubject': 'rxjs-compat/_esm2015/BehaviorSubject',
+          'rxjs/AsyncSubject': 'rxjs-compat/_esm2015/AsyncSubject',
+          'zone.js/dist/zone': 'zone.js/dist/zone-evergreen'
+        },
+        mainFields: [ 'es2015', 'browser', 'module', 'main' ]
+      },
+      resolveLoader: {
+        symlinks: true,
+        modules: [
+          'node_modules',
+          'C:\\Users\\Max Bosch\\thesis\\node_modules\\@angular-devkit\\build-angular\\node_modules'
+        ]
+      },
+      context: 'C:\\Users\\Max Bosch\\thesis',
+      entry: {
+        main: 'C:\\Users\\Max Bosch\\thesis\\src\\test.ts',
+        polyfills: [
+          'C:\\Users\\Max Bosch\\thesis\\src\\polyfills.ts',
+          'C:\\Users\\Max Bosch\\thesis\\node_modules\\@angular-devkit\\build-angular\\src\\angular-cli-files\\models\\jit-polyfills.js'
+        ]
+      },
+      output: {
+        futureEmitAssets: true,
+        path: 'C:\\Users\\Max Bosch\\thesis',
+        publicPath: undefined,
+        filename: '[name].js'
+      },
+      watch: undefined,
+      watchOptions: { poll: undefined, ignored: undefined },
+      performance: { hints: false },
+      module: {
+        strictExportPresence: true,
+        rules: [
+          {
+            test: /\.(eot|svg|cur|jpg|png|webp|gif|otf|ttf|woff|woff2|ani)$/,
+            loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\file-loader\\dist\\cjs.js',
+            options: { name: '[name].[ext]', emitFile: true }
+          },
+          {
+            test: /[\/\\]@angular[\/\\]core[\/\\].+\.js$/,
+            parser: { system: true }
+          },
+          { test: /\.js$/, exclude: /(ngfactory|ngstyle)\.js$/ },
+          {
+            test: /\.js$/,
+            exclude: /(ngfactory|ngstyle)\.js$/,
+            enforce: 'pre'
+          },
+          {
+            exclude: [],
+            test: /\.css$/,
+            use: [
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\raw-loader\\dist\\cjs.js'
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\postcss-loader\\src\\index.js',
+                options: {
+                  ident: 'embedded',
+                  plugins: [Function: postcssPluginCreator],
+                  sourceMap: 'inline'
+                }
+              }
+            ]
+          },
+          {
+            exclude: [],
+            test: /\.scss$|\.sass$/,
+            use: [
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\raw-loader\\dist\\cjs.js'
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\postcss-loader\\src\\index.js',
+                options: {
+                  ident: 'embedded',
+                  plugins: [Function: postcssPluginCreator],
+                  sourceMap: 'inline'
+                }
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\sass-loader\\dist\\cjs.js',
+                options: {
+                  implementation: {
+                    render: [Function] {
+                      '___dart__$dart_dartClosure_ZxYxX_0_': static_tear_off {
+                        '$initialize': [Function: StaticClosure],
+                        constructor: [Function: static_tear_off],
+                        '$static_name': '_render',
+                        '$signature': [Function],
+                        'call$2': [Function: _render] {
+                          '$callName': 'call$2',
+                          '$requiredArgCount': 2,
+                          '$defaultValues': null,
+                          '$stubName': '_render',
+                          '$tearOff': [Function]
+                        },
+                        'call*': [Function: _render] {
+                          '$callName': 'call$2',
+                          '$requiredArgCount': 2,
+                          '$defaultValues': null,
+                          '$stubName': '_render',
+                          '$tearOff': [Function]
+                        },
+                        '$requiredArgCount': 2,
+                        '$defaultValues': null,
+                        '$dart_jsFunction': [Circular]
+                      }
+                    },
+                    renderSync: [Function] {
+                      '___dart__$dart_dartClosure_ZxYxX_0_': static_tear_off {
+                        '$initialize': [Function: StaticClosure],
+                        constructor: [Function: static_tear_off],
+                        '$static_name': '_renderSync',
+                        '$signature': [Function],
+                        'call$1': [Function: _renderSync] {
+                          '$callName': 'call$1',
+                          '$requiredArgCount': 1,
+                          '$defaultValues': null,
+                          '$stubName': '_renderSync',
+                          '$tearOff': [Function]
+                        },
+                        'call*': [Function: _renderSync] {
+                          '$callName': 'call$1',
+                          '$requiredArgCount': 1,
+                          '$defaultValues': null,
+                          '$stubName': '_renderSync',
+                          '$tearOff': [Function]
+                        },
+                        '$requiredArgCount': 1,
+                        '$defaultValues': null,
+                        '$dart_jsFunction': [Circular]
+                      }
+                    },
+                    info: 'dart-sass\t1.26.3\t(Sass Compiler)\t[Dart]\n' +
+                      'dart2js\t2.7.1\t(Dart Compiler)\t[Dart]',
+                    types: {
+                      Boolean: [Function] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': _closure34 { '$dart_jsFunction': [Circular] },
+                        TRUE: SassBoolean { value: true },
+                        FALSE: SassBoolean { value: false }
+                      },
+                      Color: [Function: SassColor] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': closure239 {
+                          '_$dart_jsFunctionCaptureThis': [Circular]
+                        }
+                      },
+                      List: [Function: SassList] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': closure232 {
+                          '_$dart_jsFunctionCaptureThis': [Circular]
+                        }
+                      },
+                      Map: [Function: SassMap] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': closure225 {
+                          '_$dart_jsFunctionCaptureThis': [Circular]
+                        }
+                      },
+                      Null: [Function] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': _closure29 { '$dart_jsFunction': [Circular] },
+                        NULL: SassNull {
+                          toString: [Function] {
+                            '___dart__$dart_dartClosure_ZxYxX_0_': _closure30 {
+                              '$dart_jsFunction': [Circular]
+                            }
+                          }
+                        }
+                      },
+                      Number: [Function: SassNumber] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': closure218 {
+                          '_$dart_jsFunctionCaptureThis': [Circular]
+                        }
+                      },
+                      String: [Function: SassString] {
+                        '___dart__$dart_dartClosure_ZxYxX_0_': closure214 {
+                          '_$dart_jsFunctionCaptureThis': [Circular]
+                        }
+                      },
+                      Error: [Function: Error] {
+                        stackTraceLimit: 16,
+                        prepareStackTrace: [Function: prepareStackTrace]
+                      }
+                    },
+                    cli_pkg_main_0_: [Function] {
+                      '___dart__$dart_dartClosure_ZxYxX_0_': _wrapMain_closure0 {
+                        main: static_tear_off {
+                          '$initialize': [Function: StaticClosure],
+                          constructor: [Function: static_tear_off],
+                          '$static_name': 'main',
+                          '$signature': [Function],
+                          'call$1': [Function: main] {
+                            '$callName': 'call$1',
+                            '$requiredArgCount': 1,
+                            '$defaultValues': null,
+                            '$stubName': 'main',
+                            '$tearOff': [Function]
+                          },
+                          'call*': [Function: main] {
+                            '$callName': 'call$1',
+                            '$requiredArgCount': 1,
+                            '$defaultValues': null,
+                            '$stubName': 'main',
+                            '$tearOff': [Function]
+                          },
+                          '$requiredArgCount': 1,
+                          '$defaultValues': null
+                        },
+                        '$dart_jsFunction': [Circular]
+                      }
+                    }
+                  },
+                  sourceMap: true,
+                  sassOptions: {
+                    precision: 8,
+                    includePaths: [],
+                    outputStyle: 'expanded'
+                  }
+                }
+              }
+            ]
+          },
+          {
+            exclude: [],
+            test: /\.less$/,
+            use: [
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\raw-loader\\dist\\cjs.js'
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\postcss-loader\\src\\index.js',
+                options: {
+                  ident: 'embedded',
+                  plugins: [Function: postcssPluginCreator],
+                  sourceMap: 'inline'
+                }
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\less-loader\\dist\\cjs.js',
+                options: { sourceMap: true, javascriptEnabled: true }
+              }
+            ]
+          },
+          {
+            exclude: [],
+            test: /\.styl$/,
+            use: [
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\raw-loader\\dist\\cjs.js'
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\postcss-loader\\src\\index.js',
+                options: {
+                  ident: 'embedded',
+                  plugins: [Function: postcssPluginCreator],
+                  sourceMap: 'inline'
+                }
+              },
+              {
+                loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\stylus-loader\\index.js',
+                options: { sourceMap: true, paths: [] }
+              }
+            ]
+          },
+          {
+            test: /\.tsx?$/,
+            loader: 'C:\\Users\\Max Bosch\\thesis\\node_modules\\@ngtools\\webpack\\src\\index.js'
+          }
+        ]
+      },
+      optimization: {
+        noEmitOnErrors: true,
+        minimizer: [
+          HashedModuleIdsPlugin {
+            options: {
+              context: null,
+              hashFunction: 'md4',
+              hashDigest: 'base64',
+              hashDigestLength: 4
+            }
+          },
+          BundleBudgetPlugin { options: { budgets: [] } }
+        ],
+        splitChunks: {
+          chunks: [Function: chunks],
+          cacheGroups: {
+            vendors: false,
+            vendor: {
+              name: 'vendor',
+              chunks: 'initial',
+              test: [Function: test]
+            }
+          }
+        }
+      },
+      plugins: [
+        ContextReplacementPlugin {
+          resourceRegExp: /\@angular(\\|\/)core(\\|\/)/,
+          newContentResource: undefined,
+          newContentRecursive: undefined,
+          newContentRegExp: undefined
+        },
+        CopyPlugin {
+          patterns: [
+            {
+              context: 'C:/Users/Max Bosch/thesis/src/',
+              to: '',
+              from: 'favicon.ico',
+              noErrorOnMissing: true,
+              globOptions: {
+                dot: true,
+                ignore: [
+                  'C:/Users/Max Bosch/thesis/src/.gitkeep',
+                  'C:/Users/Max Bosch/thesis/src/**/.DS_Store',
+                  'C:/Users/Max Bosch/thesis/src/**/Thumbs.db'
+                ]
+              }
+            },
+            {
+              context: 'C:/Users/Max Bosch/thesis/src/assets/',
+              to: 'assets/',
+              from: '**/*',
+              noErrorOnMissing: true,
+              globOptions: {
+                dot: true,
+                ignore: [
+                  'C:/Users/Max Bosch/thesis/src/assets/.gitkeep',
+                  'C:/Users/Max Bosch/thesis/src/assets/**/.DS_Store',
+                  'C:/Users/Max Bosch/thesis/src/assets/**/Thumbs.db'
+                ]
+              }
+            }
+          ],
+          options: {}
+        },
+        ProgressPlugin {
+          profile: undefined,
+          handler: undefined,
+          modulesCount: 500,
+          showEntries: false,
+          showModules: true,
+          showActiveModules: true
+        },
+        AnyComponentStyleBudgetChecker { budgets: [] },
+        AngularCompilerPlugin {
+          _discoverLazyRoutes: true,
+          _useFactories: false,
+          _lazyRoutes: {},
+          _transformers: [ [Function], [Function] ],
+          _platformTransformers: null,
+          _JitMode: true,
+          _emitSkipped: true,
+          _unusedFiles: Set {},
+          _typeDeps: Set {},
+          _changedFileExtensions: Set { 'ts', 'tsx', 'html', 'css', 'js', 'json' },
+          _nodeModulesRegExp: /[\\\/]node_modules[\\\/]/,
+          _firstRun: true,
+          _warnings: [],
+          _errors: [],
+          _forkTypeChecker: false,
+          _forkedTypeCheckerInitialized: false,
+          _mainFields: [],
+          _options: {
+            mainPath: 'C:\\Users\\Max Bosch\\thesis\\src\\test.ts',
+            i18nInFile: undefined,
+            i18nInFormat: undefined,
+            locale: undefined,
+            platform: 0,
+            missingTranslation: undefined,
+            sourceMap: true,
+            additionalLazyModules: {},
+            nameLazyFiles: undefined,
+            forkTypeChecker: false,
+            contextElementDependencyConstructor: [Function: ContextElementDependency],
+            logger: Logger {
+              _isScalar: false,
+              name: 'webpackConfigOptions',
+              parent: Logger {
+                _isScalar: false,
+                name: 'app:test:',
+                parent: null,
+                _subject: Subject {
+                  _isScalar: false,
+                  observers: [
+                    Subscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: [
+                        SubjectSubscription {
+                          closed: false,
+                          _parentOrParents: [Circular],
+                          _subscriptions: null,
+                          subject: [Circular],
+                          subscriber: [Circular]
+                        }
+                      ],
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: true,
+                      isStopped: false,
+                      destination: SafeSubscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: null,
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: false,
+                        isStopped: false,
+                        destination: {
+                          closed: true,
+                          next: [Function: next],
+                          error: [Function: error],
+                          complete: [Function: complete]
+                        },
+                        _parentSubscriber: [Circular],
+                        _context: [Circular],
+                        _next: [Function],
+                        _error: undefined,
+                        _complete: undefined
+                      }
+                    },
+                    Subscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: [
+                        SubjectSubscription {
+                          closed: false,
+                          _parentOrParents: [Circular],
+                          _subscriptions: null,
+                          subject: [Circular],
+                          subscriber: [Circular]
+                        }
+                      ],
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: true,
+                      isStopped: false,
+                      destination: SafeSubscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: null,
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: false,
+                        isStopped: false,
+                        destination: {
+                          closed: true,
+                          next: [Function: next],
+                          error: [Function: error],
+                          complete: [Function: complete]
+                        },
+                        _parentSubscriber: [Circular],
+                        _context: [Circular],
+                        _next: undefined,
+                        _error: undefined,
+                        _complete: [Function]
+                      }
+                    }
+                  ],
+                  closed: false,
+                  isStopped: false,
+                  hasError: false,
+                  thrownError: null
+                },
+                _metadata: { name: 'app:test:', path: [] },
+                _obs: Observable {
+                  _isScalar: false,
+                  source: Subject {
+                    _isScalar: false,
+                    observers: [
+                      Subscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: [
+                          SubjectSubscription {
+                            closed: false,
+                            _parentOrParents: [Circular],
+                            _subscriptions: null,
+                            subject: [Circular],
+                            subscriber: [Circular]
+                          }
+                        ],
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: true,
+                        isStopped: false,
+                        destination: SafeSubscriber {
+                          closed: false,
+                          _parentOrParents: null,
+                          _subscriptions: null,
+                          syncErrorValue: null,
+                          syncErrorThrown: false,
+                          syncErrorThrowable: false,
+                          isStopped: false,
+                          destination: {
+                            closed: true,
+                            next: [Function: next],
+                            error: [Function: error],
+                            complete: [Function: complete]
+                          },
+                          _parentSubscriber: [Circular],
+                          _context: [Circular],
+                          _next: [Function],
+                          _error: undefined,
+                          _complete: undefined
+                        }
+                      },
+                      Subscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: [
+                          SubjectSubscription {
+                            closed: false,
+                            _parentOrParents: [Circular],
+                            _subscriptions: null,
+                            subject: [Circular],
+                            subscriber: [Circular]
+                          }
+                        ],
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: true,
+                        isStopped: false,
+                        destination: SafeSubscriber {
+                          closed: false,
+                          _parentOrParents: null,
+                          _subscriptions: null,
+                          syncErrorValue: null,
+                          syncErrorThrown: false,
+                          syncErrorThrowable: false,
+                          isStopped: false,
+                          destination: {
+                            closed: true,
+                            next: [Function: next],
+                            error: [Function: error],
+                            complete: [Function: complete]
+                          },
+                          _parentSubscriber: [Circular],
+                          _context: [Circular],
+                          _next: undefined,
+                          _error: undefined,
+                          _complete: [Function]
+                        }
+                      }
+                    ],
+                    closed: false,
+                    isStopped: false,
+                    hasError: false,
+                    thrownError: null
+                  }
+                }
+              },
+              _subject: Subject {
+                _isScalar: false,
+                observers: [
+                  Subscriber {
+                    closed: false,
+                    _parentOrParents: null,
+                    _subscriptions: [
+                      SubjectSubscription {
+                        closed: false,
+                        _parentOrParents: [Circular],
+                        _subscriptions: null,
+                        subject: [Circular],
+                        subscriber: [Circular]
+                      }
+                    ],
+                    syncErrorValue: null,
+                    syncErrorThrown: false,
+                    syncErrorThrowable: true,
+                    isStopped: false,
+                    destination: SafeSubscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: null,
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: false,
+                      isStopped: false,
+                      destination: {
+                        closed: true,
+                        next: [Function: next],
+                        error: [Function: error],
+                        complete: [Function: complete]
+                      },
+                      _parentSubscriber: [Circular],
+                      _context: [Circular],
+                      _next: [Function],
+                      _error: [Function],
+                      _complete: [Function]
+                    }
+                  }
+                ],
+                closed: false,
+                isStopped: false,
+                hasError: false,
+                thrownError: null
+              },
+              _metadata: { name: 'webpackConfigOptions', path: [ 'app:test:' ] },
+              _obs: Observable {
+                _isScalar: false,
+                source: Subject {
+                  _isScalar: false,
+                  observers: [
+                    Subscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: [
+                        SubjectSubscription {
+                          closed: false,
+                          _parentOrParents: [Circular],
+                          _subscriptions: null,
+                          subject: [Circular],
+                          subscriber: [Circular]
+                        }
+                      ],
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: true,
+                      isStopped: false,
+                      destination: SafeSubscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: null,
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: false,
+                        isStopped: false,
+                        destination: {
+                          closed: true,
+                          next: [Function: next],
+                          error: [Function: error],
+                          complete: [Function: complete]
+                        },
+                        _parentSubscriber: [Circular],
+                        _context: [Circular],
+                        _next: [Function],
+                        _error: [Function],
+                        _complete: [Function]
+                      }
+                    }
+                  ],
+                  closed: false,
+                  isStopped: false,
+                  hasError: false,
+                  thrownError: null
+                }
+              },
+              _subscription: Subscriber {
+                closed: false,
+                _parentOrParents: null,
+                _subscriptions: [
+                  SubjectSubscription {
+                    closed: false,
+                    _parentOrParents: [Circular],
+                    _subscriptions: null,
+                    subject: Subject {
+                      _isScalar: false,
+                      observers: [ [Circular] ],
+                      closed: false,
+                      isStopped: false,
+                      hasError: false,
+                      thrownError: null
+                    },
+                    subscriber: [Circular]
+                  }
+                ],
+                syncErrorValue: null,
+                syncErrorThrown: false,
+                syncErrorThrowable: true,
+                isStopped: false,
+                destination: SafeSubscriber {
+                  closed: false,
+                  _parentOrParents: null,
+                  _subscriptions: null,
+                  syncErrorValue: null,
+                  syncErrorThrown: false,
+                  syncErrorThrowable: false,
+                  isStopped: false,
+                  destination: {
+                    closed: true,
+                    next: [Function: next],
+                    error: [Function: error],
+                    complete: [Function: complete]
+                  },
+                  _parentSubscriber: [Circular],
+                  _context: [Circular],
+                  _next: [Function],
+                  _error: [Function],
+                  _complete: [Function]
+                }
+              }
+            },
+            directTemplateLoading: true,
+            tsConfigPath: 'C:\\Users\\Max Bosch\\thesis\\tsconfig.spec.json',
+            skipCodeGeneration: true,
+            compilerOptions: {},
+            hostReplacementPaths: {}
+          },
+          _logger: Logger {
+            _isScalar: false,
+            name: 'webpackConfigOptions',
+            parent: Logger {
+              _isScalar: false,
+              name: 'app:test:',
+              parent: null,
+              _subject: Subject {
+                _isScalar: false,
+                observers: [
+                  Subscriber {
+                    closed: false,
+                    _parentOrParents: null,
+                    _subscriptions: [
+                      SubjectSubscription {
+                        closed: false,
+                        _parentOrParents: [Circular],
+                        _subscriptions: null,
+                        subject: [Circular],
+                        subscriber: [Circular]
+                      }
+                    ],
+                    syncErrorValue: null,
+                    syncErrorThrown: false,
+                    syncErrorThrowable: true,
+                    isStopped: false,
+                    destination: SafeSubscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: null,
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: false,
+                      isStopped: false,
+                      destination: {
+                        closed: true,
+                        next: [Function: next],
+                        error: [Function: error],
+                        complete: [Function: complete]
+                      },
+                      _parentSubscriber: [Circular],
+                      _context: [Circular],
+                      _next: [Function],
+                      _error: undefined,
+                      _complete: undefined
+                    }
+                  },
+                  Subscriber {
+                    closed: false,
+                    _parentOrParents: null,
+                    _subscriptions: [
+                      SubjectSubscription {
+                        closed: false,
+                        _parentOrParents: [Circular],
+                        _subscriptions: null,
+                        subject: [Circular],
+                        subscriber: [Circular]
+                      }
+                    ],
+                    syncErrorValue: null,
+                    syncErrorThrown: false,
+                    syncErrorThrowable: true,
+                    isStopped: false,
+                    destination: SafeSubscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: null,
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: false,
+                      isStopped: false,
+                      destination: {
+                        closed: true,
+                        next: [Function: next],
+                        error: [Function: error],
+                        complete: [Function: complete]
+                      },
+                      _parentSubscriber: [Circular],
+                      _context: [Circular],
+                      _next: undefined,
+                      _error: undefined,
+                      _complete: [Function]
+                    }
+                  }
+                ],
+                closed: false,
+                isStopped: false,
+                hasError: false,
+                thrownError: null
+              },
+              _metadata: { name: 'app:test:', path: [] },
+              _obs: Observable {
+                _isScalar: false,
+                source: Subject {
+                  _isScalar: false,
+                  observers: [
+                    Subscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: [
+                        SubjectSubscription {
+                          closed: false,
+                          _parentOrParents: [Circular],
+                          _subscriptions: null,
+                          subject: [Circular],
+                          subscriber: [Circular]
+                        }
+                      ],
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: true,
+                      isStopped: false,
+                      destination: SafeSubscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: null,
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: false,
+                        isStopped: false,
+                        destination: {
+                          closed: true,
+                          next: [Function: next],
+                          error: [Function: error],
+                          complete: [Function: complete]
+                        },
+                        _parentSubscriber: [Circular],
+                        _context: [Circular],
+                        _next: [Function],
+                        _error: undefined,
+                        _complete: undefined
+                      }
+                    },
+                    Subscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: [
+                        SubjectSubscription {
+                          closed: false,
+                          _parentOrParents: [Circular],
+                          _subscriptions: null,
+                          subject: [Circular],
+                          subscriber: [Circular]
+                        }
+                      ],
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: true,
+                      isStopped: false,
+                      destination: SafeSubscriber {
+                        closed: false,
+                        _parentOrParents: null,
+                        _subscriptions: null,
+                        syncErrorValue: null,
+                        syncErrorThrown: false,
+                        syncErrorThrowable: false,
+                        isStopped: false,
+                        destination: {
+                          closed: true,
+                          next: [Function: next],
+                          error: [Function: error],
+                          complete: [Function: complete]
+                        },
+                        _parentSubscriber: [Circular],
+                        _context: [Circular],
+                        _next: undefined,
+                        _error: undefined,
+                        _complete: [Function]
+                      }
+                    }
+                  ],
+                  closed: false,
+                  isStopped: false,
+                  hasError: false,
+                  thrownError: null
+                }
+              }
+            },
+            _subject: Subject {
+              _isScalar: false,
+              observers: [
+                Subscriber {
+                  closed: false,
+                  _parentOrParents: null,
+                  _subscriptions: [
+                    SubjectSubscription {
+                      closed: false,
+                      _parentOrParents: [Circular],
+                      _subscriptions: null,
+                      subject: [Circular],
+                      subscriber: [Circular]
+                    }
+                  ],
+                  syncErrorValue: null,
+                  syncErrorThrown: false,
+                  syncErrorThrowable: true,
+                  isStopped: false,
+                  destination: SafeSubscriber {
+                    closed: false,
+                    _parentOrParents: null,
+                    _subscriptions: null,
+                    syncErrorValue: null,
+                    syncErrorThrown: false,
+                    syncErrorThrowable: false,
+                    isStopped: false,
+                    destination: {
+                      closed: true,
+                      next: [Function: next],
+                      error: [Function: error],
+                      complete: [Function: complete]
+                    },
+                    _parentSubscriber: [Circular],
+                    _context: [Circular],
+                    _next: [Function],
+                    _error: [Function],
+                    _complete: [Function]
+                  }
+                }
+              ],
+              closed: false,
+              isStopped: false,
+              hasError: false,
+              thrownError: null
+            },
+            _metadata: { name: 'webpackConfigOptions', path: [ 'app:test:' ] },
+            _obs: Observable {
+              _isScalar: false,
+              source: Subject {
+                _isScalar: false,
+                observers: [
+                  Subscriber {
+                    closed: false,
+                    _parentOrParents: null,
+                    _subscriptions: [
+                      SubjectSubscription {
+                        closed: false,
+                        _parentOrParents: [Circular],
+                        _subscriptions: null,
+                        subject: [Circular],
+                        subscriber: [Circular]
+                      }
+                    ],
+                    syncErrorValue: null,
+                    syncErrorThrown: false,
+                    syncErrorThrowable: true,
+                    isStopped: false,
+                    destination: SafeSubscriber {
+                      closed: false,
+                      _parentOrParents: null,
+                      _subscriptions: null,
+                      syncErrorValue: null,
+                      syncErrorThrown: false,
+                      syncErrorThrowable: false,
+                      isStopped: false,
+                      destination: {
+                        closed: true,
+                        next: [Function: next],
+                        error: [Function: error],
+                        complete: [Function: complete]
+                      },
+                      _parentSubscriber: [Circular],
+                      _context: [Circular],
+                      _next: [Function],
+                      _error: [Function],
+                      _complete: [Function]
+                    }
+                  }
+                ],
+                closed: false,
+                isStopped: false,
+                hasError: false,
+                thrownError: null
+              }
+            },
+            _subscription: Subscriber {
+              closed: false,
+              _parentOrParents: null,
+              _subscriptions: [
+                SubjectSubscription {
+                  closed: false,
+                  _parentOrParents: [Circular],
+                  _subscriptions: null,
+                  subject: Subject {
+                    _isScalar: false,
+                    observers: [ [Circular] ],
+                    closed: false,
+                    isStopped: false,
+                    hasError: false,
+                    thrownError: null
+                  },
+                  subscriber: [Circular]
+                }
+              ],
+              syncErrorValue: null,
+              syncErrorThrown: false,
+              syncErrorThrowable: true,
+              isStopped: false,
+              destination: SafeSubscriber {
+                closed: false,
+                _parentOrParents: null,
+                _subscriptions: null,
+                syncErrorValue: null,
+                syncErrorThrown: false,
+                syncErrorThrowable: false,
+                isStopped: false,
+                destination: {
+                  closed: true,
+                  next: [Function: next],
+                  error: [Function: error],
+                  complete: [Function: complete]
+                },
+                _parentSubscriber: [Circular],
+                _context: [Circular],
+                _next: [Function],
+                _error: [Function],
+                _complete: [Function]
+              }
+            }
+          },
+          _tsConfigPath: 'C:/Users/Max Bosch/thesis/tsconfig.spec.json',
+          _rootNames: [
+            'C:/Users/Max Bosch/thesis/src/test.ts',
+            'C:/Users/Max Bosch/thesis/src/polyfills.ts',
+            'C:/Users/Max Bosch/thesis/src/app/app.component.spec.ts',
+            'C:/Users/Max Bosch/thesis/src/app/btc/btc.page.spec.ts',
+            'C:/Users/Max Bosch/thesis/src/app/eth/eth.page.spec.ts',
+            'C:/Users/Max Bosch/thesis/src/app/folder/folder.page.spec.ts',
+            'C:/Users/Max Bosch/thesis/src/app/homepage/homepage.page.spec.ts',
+            'C:/Users/Max Bosch/thesis/src/app/predictions/predictions.page.spec.ts'
+          ],
+          _compilerOptions: {
+            baseUrl: 'C:/Users/Max Bosch/thesis',
+            outDir: '',
+            sourceMap: true,
+            declaration: false,
+            downlevelIteration: true,
+            experimentalDecorators: true,
+            module: 99,
+            moduleResolution: 2,
+            importHelpers: true,
+            target: 2,
+            lib: [ 'lib.es2018.d.ts', 'lib.dom.d.ts' ],
+            types: [ 'jasmine', 'node' ],
+            configFilePath: 'C:/Users/Max Bosch/thesis/tsconfig.spec.json',
+            fullTemplateTypeCheck: true,
+            strictInjectionParameters: true,
+            enableIvy: true,
+            genDir: 'C:/Users/Max Bosch/thesis',
+            basePath: 'C:/Users/Max Bosch/thesis',
+            suppressOutputPathCheck: true,
+            inlineSources: true,
+            inlineSourceMap: false,
+            mapRoot: undefined,
+            sourceRoot: undefined,
+            noEmitOnError: false
+          },
+          _basePath: 'C:/Users/Max Bosch/thesis',
+          _contextElementDependencyConstructor: [Function: ContextElementDependency],
+          _platform: 0
+        },
+        SourceMapDevToolPlugin {
+          sourceMapFilename: undefined,
+          sourceMappingURLComment: '\n//# sourceMappingURL=[url]',
+          moduleFilenameTemplate: '[resource-path]',
+          fallbackModuleFilenameTemplate: 'webpack://[namespace]/[resourcePath]?[hash]',
+          namespace: '',
+          options: {
+            filename: undefined,
+            include: [ /js$/, /css$/ ],
+            sourceRoot: '',
+            moduleFilenameTemplate: '[resource-path]',
+            append: undefined
+          }
+        }
+      ]
+    },
+    successCb: [Function: successCb],
+    failureCb: [Function: failureCb],
+    toJSON: [Function: toJSON],
+    logger: Logger {
+      _isScalar: false,
+      name: 'app:test:',
+      parent: null,
+      _subject: Subject {
+        _isScalar: false,
+        observers: [
+          Subscriber {
+            closed: false,
+            _parentOrParents: null,
+            _subscriptions: [
+              SubjectSubscription {
+                closed: false,
+                _parentOrParents: [Circular],
+                _subscriptions: null,
+                subject: [Circular],
+                subscriber: [Circular]
+              }
+            ],
+            syncErrorValue: null,
+            syncErrorThrown: false,
+            syncErrorThrowable: true,
+            isStopped: false,
+            destination: SafeSubscriber {
+              closed: false,
+              _parentOrParents: null,
+              _subscriptions: null,
+              syncErrorValue: null,
+              syncErrorThrown: false,
+              syncErrorThrowable: false,
+              isStopped: false,
+              destination: {
+                closed: true,
+                next: [Function: next],
+                error: [Function: error],
+                complete: [Function: complete]
+              },
+              _parentSubscriber: [Circular],
+              _context: [Circular],
+              _next: [Function],
+              _error: undefined,
+              _complete: undefined
+            }
+          },
+          Subscriber {
+            closed: false,
+            _parentOrParents: null,
+            _subscriptions: [
+              SubjectSubscription {
+                closed: false,
+                _parentOrParents: [Circular],
+                _subscriptions: null,
+                subject: [Circular],
+                subscriber: [Circular]
+              }
+            ],
+            syncErrorValue: null,
+            syncErrorThrown: false,
+            syncErrorThrowable: true,
+            isStopped: false,
+            destination: SafeSubscriber {
+              closed: false,
+              _parentOrParents: null,
+              _subscriptions: null,
+              syncErrorValue: null,
+              syncErrorThrown: false,
+              syncErrorThrowable: false,
+              isStopped: false,
+              destination: {
+                closed: true,
+                next: [Function: next],
+                error: [Function: error],
+                complete: [Function: complete]
+              },
+              _parentSubscriber: [Circular],
+              _context: [Circular],
+              _next: undefined,
+              _error: undefined,
+              _complete: [Function]
+            }
+          }
+        ],
+        closed: false,
+        isStopped: false,
+        hasError: false,
+        thrownError: null
+      },
+      _metadata: { name: 'app:test:', path: [] },
+      _obs: Observable {
+        _isScalar: false,
+        source: Subject {
+          _isScalar: false,
+          observers: [
+            Subscriber {
+              closed: false,
+              _parentOrParents: null,
+              _subscriptions: [
+                SubjectSubscription {
+                  closed: false,
+                  _parentOrParents: [Circular],
+                  _subscriptions: null,
+                  subject: [Circular],
+                  subscriber: [Circular]
+                }
+              ],
+              syncErrorValue: null,
+              syncErrorThrown: false,
+              syncErrorThrowable: true,
+              isStopped: false,
+              destination: SafeSubscriber {
+                closed: false,
+                _parentOrParents: null,
+                _subscriptions: null,
+                syncErrorValue: null,
+                syncErrorThrown: false,
+                syncErrorThrowable: false,
+                isStopped: false,
+                destination: {
+                  closed: true,
+                  next: [Function: next],
+                  error: [Function: error],
+                  complete: [Function: complete]
+                },
+                _parentSubscriber: [Circular],
+                _context: [Circular],
+                _next: [Function],
+                _error: undefined,
+                _complete: undefined
+              }
+            },
+            Subscriber {
+              closed: false,
+              _parentOrParents: null,
+              _subscriptions: [
+                SubjectSubscription {
+                  closed: false,
+                  _parentOrParents: [Circular],
+                  _subscriptions: null,
+                  subject: [Circular],
+                  subscriber: [Circular]
+                }
+              ],
+              syncErrorValue: null,
+              syncErrorThrown: false,
+              syncErrorThrowable: true,
+              isStopped: false,
+              destination: SafeSubscriber {
+                closed: false,
+                _parentOrParents: null,
+                _subscriptions: null,
+                syncErrorValue: null,
+                syncErrorThrown: false,
+                syncErrorThrowable: false,
+                isStopped: false,
+                destination: {
+                  closed: true,
+                  next: [Function: next],
+                  error: [Function: error],
+                  complete: [Function: complete]
+                },
+                _parentSubscriber: [Circular],
+                _context: [Circular],
+                _next: undefined,
+                _error: undefined,
+                _complete: [Function]
+              }
+            }
+          ],
+          closed: false,
+          isStopped: false,
+          hasError: false,
+          thrownError: null
+        }
+      }
+    }
+  },
+  coverageIstanbulReporter: {
+    dir: 'C:\\Users\\Max Bosch\\coverage',
+    reports: [ 'html', 'lcovonly', 'text-summary' ],
+    fixWebpackSourcePaths: true
+  }
+}
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining framework:jasmine, reporter:karma-jasmine).
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining launcher:Chrome, launcher:ChromeHeadless, launcher:ChromeCanary, launcher:ChromeCanaryHeadless, launcher:Chromium, launcher:ChromiumHeadless, launcher:Dartium, test).
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining reporter:kjhtml).
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining reporter:coverage-istanbul).
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining framework:@angular-devkit/build-angular, reporter:@angular-devkit/build-angular--sourcemap-reporter, reporter:@angular-devkit/build-angular--event-reporter, middleware:@angular-devkit/build-angular--blocker, middleware:@angular-devkit/build-angular--fallback).
+[2020-08-17T17:18:13.841] [DEBUG] plugin - Loading inlined plugin (defining reporter:spec).
+[2020-08-17T17:18:19.032] [DEBUG] web-server - Instantiating middleware
+[2020-08-17T17:18:19.033] [DEBUG] reporter - Trying to load reporter: spec
+[2020-08-17T17:18:19.033] [DEBUG] reporter - Trying to load color-version of reporter: spec (spec_color)
+[2020-08-17T17:18:19.033] [DEBUG] reporter - Couldn't load color-version.
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Trying to load reporter: @angular-devkit/build-angular--sourcemap-reporter
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Trying to load color-version of reporter: @angular-devkit/build-angular--sourcemap-reporter (@angular-devkit/build-angular--sourcemap-reporter_color)
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Couldn't load color-version.
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Trying to load reporter: @angular-devkit/build-angular--event-reporter
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Trying to load color-version of reporter: @angular-devkit/build-angular--event-reporter (@angular-devkit/build-angular--event-reporter_color)
+[2020-08-17T17:18:19.034] [DEBUG] reporter - Couldn't load color-version.
+[2020-08-17T17:18:19.057] [DEBUG] karma-server - List of files has changed, trying to execute
+[2020-08-17T17:18:19.057] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:18:19.058] [INFO] karma-server - Karma v5.0.9 server started at http://0.0.0.0:9877/
+[2020-08-17T17:18:19.058] [INFO] launcher - Launching browsers Chrome with concurrency unlimited
+[2020-08-17T17:18:19.062] [INFO] launcher - Starting browser Chrome
+[2020-08-17T17:18:19.062] [DEBUG] launcher - null -> BEING_CAPTURED
+[2020-08-17T17:18:19.062] [DEBUG] temp-dir - Creating temp dir at C:\Users\MAXBOS~1\AppData\Local\Temp\karma-32756539
+[2020-08-17T17:18:19.062] [DEBUG] launcher - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe --user-data-dir=C:\Users\MAXBOS~1\AppData\Local\Temp\karma-32756539 --enable-automation --no-default-browser-check --no-first-run --disable-default-apps --disable-popup-blocking --disable-translate --disable-background-timer-throttling --disable-renderer-backgrounding --disable-device-discovery-notifications http://localhost:9877/?id=32756539
+[2020-08-17T17:18:25.377] [DEBUG] web-server - serving: C:\Users\Max Bosch\thesis\node_modules\karma\static/client.html
+[2020-08-17T17:18:25.381] [DEBUG] karma-server - List of files has changed, trying to execute
+[2020-08-17T17:18:25.381] [WARN] karma - No captured browser, open http://localhost:9877/
+[2020-08-17T17:18:25.805] [DEBUG] web-server - serving: C:\Users\Max Bosch\thesis\node_modules\karma\static/karma.js
+[2020-08-17T17:18:25.821] [DEBUG] karma-server - A browser has connected on socket usoAcdyl07AohwtlAAAA
+[2020-08-17T17:18:25.821] [DEBUG] web-server - serving: C:\Users\Max Bosch\thesis\node_modules\karma\static/favicon.ico
+[2020-08-17T17:18:25.835] [DEBUG] Chrome 84.0.4147.125 (Windows 10) - undefined -> CONNECTED
+[2020-08-17T17:18:25.835] [INFO] Chrome 84.0.4147.125 (Windows 10) - Connected on socket usoAcdyl07AohwtlAAAA with id 32756539
+[2020-08-17T17:18:25.836] [DEBUG] launcher - BEING_CAPTURED -> CAPTURED
+[2020-08-17T17:18:25.836] [DEBUG] launcher - Chrome (id 32756539) captured in 6.778 secs
+[2020-08-17T17:18:25.836] [DEBUG] karma - All browsers are ready, executing
+[2020-08-17T17:18:25.836] [DEBUG] karma - Captured 1 browsers
+[2020-08-17T17:18:25.841] [DEBUG] middleware:karma - custom files C:\Users\Max Bosch\thesis\node_modules\@angular-devkit\build-angular\src\angular-cli-files\plugins/karma-context.html C:\Users\Max Bosch\thesis\node_modules\@angular-devkit\build-angular\src\angular-cli-files\plugins/karma-debug.html null
+[2020-08-17T17:18:25.841] [DEBUG] middleware:karma - Serving customContextFile C:\Users\Max Bosch\thesis\node_modules\@angular-devkit\build-angular\src\angular-cli-files\plugins/karma-context.html
+[2020-08-17T17:18:25.841] [DEBUG] web-server - serving: C:\Users\Max Bosch\thesis\node_modules\@angular-devkit\build-angular\src\angular-cli-files\plugins/karma-context.html
+[2020-08-17T17:18:25.850] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/runtime.js
+[2020-08-17T17:18:25.850] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/runtime.js
+[2020-08-17T17:18:25.852] [DEBUG] web-server - serving: C:\Users\Max Bosch\thesis\node_modules\karma\static/context.js
+[2020-08-17T17:18:25.853] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:25.853] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:25.854] [DEBUG] middleware:source-files - Requesting /base/node_modules/source-map-support/browser-source-map-support.js?11c24878dbbd770415df212aaa55d48fc009b740
+[2020-08-17T17:18:25.854] [DEBUG] middleware:source-files - Fetching C:/Users/Max Bosch/thesis/node_modules/source-map-support/browser-source-map-support.js
+[2020-08-17T17:18:25.855] [DEBUG] web-server - serving (cached): C:/Users/Max Bosch/thesis/node_modules/source-map-support/browser-source-map-support.js
+[2020-08-17T17:18:25.857] [DEBUG] middleware:source-files - Requesting /base/node_modules/karma-source-map-support/lib/client.js?fcb459e84379f1ce8e91fe200d87463f3780ca1b
+[2020-08-17T17:18:25.857] [DEBUG] middleware:source-files - Fetching C:/Users/Max Bosch/thesis/node_modules/karma-source-map-support/lib/client.js
+[2020-08-17T17:18:25.857] [DEBUG] web-server - serving (cached): C:/Users/Max Bosch/thesis/node_modules/karma-source-map-support/lib/client.js
+[2020-08-17T17:18:25.859] [DEBUG] middleware:source-files - Requesting /base/node_modules/jasmine-core/lib/jasmine-core/jasmine.js?fbc7eaf339ea249d8c912b258548d4e7b4dc180c
+[2020-08-17T17:18:25.859] [DEBUG] middleware:source-files - Fetching C:/Users/Max Bosch/thesis/node_modules/jasmine-core/lib/jasmine-core/jasmine.js
+[2020-08-17T17:18:25.859] [DEBUG] web-server - serving (cached): C:/Users/Max Bosch/thesis/node_modules/jasmine-core/lib/jasmine-core/jasmine.js
+[2020-08-17T17:18:25.860] [DEBUG] middleware:source-files - Requesting /base/node_modules/karma-jasmine/lib/boot.js?760d54bbca4f739f1f8b252c1636d76201cc4e88
+[2020-08-17T17:18:25.860] [DEBUG] middleware:source-files - Fetching C:/Users/Max Bosch/thesis/node_modules/karma-jasmine/lib/boot.js
+[2020-08-17T17:18:25.860] [DEBUG] web-server - serving (cached): C:/Users/Max Bosch/thesis/node_modules/karma-jasmine/lib/boot.js
+[2020-08-17T17:18:25.863] [DEBUG] middleware:source-files - Requesting /base/node_modules/karma-jasmine/lib/adapter.js?64969ce9944a31ad605c450859e2ae64d86ca77a
+[2020-08-17T17:18:25.863] [DEBUG] middleware:source-files - Fetching C:/Users/Max Bosch/thesis/node_modules/karma-jasmine/lib/adapter.js
+[2020-08-17T17:18:25.863] [DEBUG] web-server - serving (cached): C:/Users/Max Bosch/thesis/node_modules/karma-jasmine/lib/adapter.js
+[2020-08-17T17:18:25.864] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/styles.js
+[2020-08-17T17:18:25.864] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/styles.js
+[2020-08-17T17:18:25.865] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/scripts.js
+[2020-08-17T17:18:25.865] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/scripts.js
+[2020-08-17T17:18:25.866] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/vendor.js
+[2020-08-17T17:18:25.866] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/vendor.js
+[2020-08-17T17:18:25.872] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/main.js
+[2020-08-17T17:18:25.873] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/main.js
+[2020-08-17T17:18:26.125] [DEBUG] web-server - upgrade /socket.io/?EIO=3&transport=websocket&sid=usoAcdyl07AohwtlAAAA
+[2020-08-17T17:18:26.277] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/main.js
+[2020-08-17T17:18:26.277] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/main.js
+[2020-08-17T17:18:26.283] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/main.js
+[2020-08-17T17:18:26.283] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/main.js
+[2020-08-17T17:18:26.395] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/vendor.js
+[2020-08-17T17:18:26.395] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/vendor.js
+[2020-08-17T17:18:26.507] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/vendor.js
+[2020-08-17T17:18:26.507] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/vendor.js
+[2020-08-17T17:18:28.196] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:28.196] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:28.202] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:28.202] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/polyfills.js
+[2020-08-17T17:18:28.332] [DEBUG] Chrome 84.0.4147.125 (Windows 10) - CONNECTED -> EXECUTING
+[2020-08-17T17:18:28.401] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/50.js
+[2020-08-17T17:18:28.401] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/50.js
+[2020-08-17T17:18:28.401] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/11.js
+[2020-08-17T17:18:28.401] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/11.js
+[2020-08-17T17:18:28.402] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/12.js
+[2020-08-17T17:18:28.407] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/12.js
+[2020-08-17T17:18:28.425] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/32.js
+[2020-08-17T17:18:28.425] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/32.js
+[2020-08-17T17:18:28.436] [DEBUG] middleware:source-files - Requesting /svg/menu-outline.svg
+[2020-08-17T17:18:28.437] [DEBUG] middleware:source-files - Fetching /svg/menu-outline.svg
+[2020-08-17T17:18:28.437] [WARN] web-server - 404: /svg/menu-outline.svg
+[2020-08-17T17:18:28.473] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/67.js
+[2020-08-17T17:18:28.473] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/67.js
+[2020-08-17T17:18:28.474] [DEBUG] middleware:source-files - Requesting /svg/add.svg
+[2020-08-17T17:18:28.474] [DEBUG] middleware:source-files - Fetching /svg/add.svg
+[2020-08-17T17:18:28.474] [WARN] web-server - 404: /svg/add.svg
+[2020-08-17T17:18:28.474] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/35.js
+[2020-08-17T17:18:28.474] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/35.js
+[2020-08-17T17:18:29.141] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/74.js
+[2020-08-17T17:18:29.141] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/74.js
+[2020-08-17T17:18:29.142] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/33.js
+[2020-08-17T17:18:29.142] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/33.js
+[2020-08-17T17:18:29.149] [DEBUG] middleware:source-files - Requesting /assets/icon/btc_png.png
+[2020-08-17T17:18:29.149] [DEBUG] middleware:source-files - Fetching /assets/icon/btc_png.png
+[2020-08-17T17:18:29.150] [DEBUG] middleware:source-files - Requesting /assets/icon/eth_png.png
+[2020-08-17T17:18:29.150] [DEBUG] middleware:source-files - Fetching /assets/icon/eth_png.png
+[2020-08-17T17:18:29.162] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/78.js
+[2020-08-17T17:18:29.162] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/78.js
+[2020-08-17T17:18:32.571] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/51.js
+[2020-08-17T17:18:32.571] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/51.js
+[2020-08-17T17:18:32.580] [DEBUG] middleware:source-files - Requesting /svg/menu-sharp.svg
+[2020-08-17T17:18:32.580] [DEBUG] middleware:source-files - Fetching /svg/menu-sharp.svg
+[2020-08-17T17:18:32.581] [WARN] web-server - 404: /svg/menu-sharp.svg
+[2020-08-17T17:18:32.914] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/82.js
+[2020-08-17T17:18:32.914] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/82.js
+[2020-08-17T17:18:32.917] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/47.js
+[2020-08-17T17:18:32.917] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/47.js
+[2020-08-17T17:18:32.918] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/0.js
+[2020-08-17T17:18:32.918] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/0.js
+[2020-08-17T17:18:32.924] [DEBUG] middleware:source-files - Requesting /assets/icon/graph_2.svg
+[2020-08-17T17:18:32.924] [DEBUG] middleware:source-files - Fetching /assets/icon/graph_2.svg
+[2020-08-17T17:18:32.925] [DEBUG] middleware:source-files - Requesting /assets/icon/btc.svg
+[2020-08-17T17:18:32.925] [DEBUG] middleware:source-files - Fetching /assets/icon/btc.svg
+[2020-08-17T17:18:32.925] [DEBUG] middleware:source-files - Requesting /assets/icon/eth.svg
+[2020-08-17T17:18:32.925] [DEBUG] middleware:source-files - Fetching /assets/icon/eth.svg
+[2020-08-17T17:18:32.938] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/73.js
+[2020-08-17T17:18:32.938] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/73.js
+[2020-08-17T17:18:32.980] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/6.js
+[2020-08-17T17:18:32.980] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/6.js
+[2020-08-17T17:18:32.981] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/3.js
+[2020-08-17T17:18:32.981] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/3.js
+[2020-08-17T17:18:32.981] [DEBUG] middleware:source-files - Requesting /_karma_webpack_/1.js
+[2020-08-17T17:18:32.981] [DEBUG] middleware:source-files - Fetching /_karma_webpack_/1.js
+[2020-08-17T17:18:32.994] [DEBUG] Chrome 84.0.4147.125 (Windows 10) - EXECUTING -> CONNECTED
+[2020-08-17T17:21:01.188] [DEBUG] launcher - Disconnecting all browsers
+[2020-08-17T17:21:01.189] [DEBUG] launcher - CAPTURED -> BEING_KILLED
+[2020-08-17T17:21:01.189] [DEBUG] launcher - BEING_KILLED -> BEING_FORCE_KILLED
+[2020-08-17T17:21:01.247] [DEBUG] launcher - Process Chrome exited with code null and signal SIGTERM
+[2020-08-17T17:21:01.248] [DEBUG] temp-dir - Cleaning temp dir C:\Users\MAXBOS~1\AppData\Local\Temp\karma-32756539
+[2020-08-17T17:21:01.319] [DEBUG] launcher - Finished all browsers

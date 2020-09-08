@@ -1,0 +1,21 @@
+ion-menu-button {
+    color: var(--ion-color-primary);
+  }
+  ion-toolbar, ion-header {
+    --min-height: 60px;
+   }
+   ion-title, ion-toolbar, ion-header {
+    font-size: 120%;
+    color:white;
+   }
+   
+   ion-content {--ion-background-color: black;}
+
+   .price{font-size:10vw;
+    color:white;}
+    .overview tr td { width:50%; }
+
+    .item-datetime {
+    --ripple-color: black;}
+
+    .datetime-md .datetime-placeholder { color: red; }

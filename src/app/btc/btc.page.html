@@ -1,0 +1,51 @@
+
+  <div [hidden]=!this.logged_in_wait>
+<ion-header [translucent]="true">
+  <ion-toolbar mode="ios">
+    <ion-title style= "position: absolute; ">Bitcoin</ion-title>
+    <ion-buttons slot="start" display="inline-block">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button expand="block"  color="tertiary" shape="round" (click)="this.login.logout()">
+        <ion-text style="color:white"> Logout </ion-text>
+        <ion-icon slot="icon-only" name="log-out" style='color:white'  ></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+  <ion-card style="background-color:#259ACB"> 
+    <ion-card-title style="text-align:center; margin-top:10px; color:white">Current price ($)</ion-card-title>
+    <ion-card-content>
+        <table  style='table-layout:fixed; width: 100%'>   
+          <tr>
+            <td><img src="assets/icon/btc_png.png"style="height:7vh;width:auto;padding-left:20vw"></td>
+            <td class='price' [innerHTML]="price"></td>
+          </tr>
+        </table>
+    </ion-card-content>
+  </ion-card>
+  <div *ngIf="this.loaded =='init'">Rendering</div>
+  <ion-card *ngIf= "this.rendered  =='rendered'" style=" background-color:#90D377">
+    <ion-card-title style="text-align:center; margin-top:4px; color:white; font-weight: bold;">Hourly prices</ion-card-title> 
+    <ion-card-content style="height:40vh;">
+      <canvas #lineCanvas></canvas>
+      <div *ngIf="this.help =='help'">Previous predictions are displayed in the graph above. They are displayed in an hourly format (i.e. a prediction for 11:34 is displayed as 11:00).</div>
+    </ion-card-content>
+  </ion-card>
+  <ion-card style="background-color:#E56F49"> 
+    <ion-card-title style="text-align:center; margin-top:4px; color:white; font-weight: bold;">Predict with ML</ion-card-title>
+    <ion-card-content style='color:white'>
+      <ion-item>
+        <ion-datetime  min={{min_predict_value}} max="2023" [(ngModel)] = "ibm_prediction_time" placeholder="Select Date and time"
+          [dayShortNames]="customDayShortNames"
+          displayFormat="YYYY-MMM-DD HH:mm"
+          monthShortNames="jan, feb, mar, apr, mai, jun, jul, aug, sep, okt, nov, des"></ion-datetime>
+      </ion-item>
+      <ion-button style="--background: #A24E33" id="saving" expand="block" (click)='predict_ibm()'>
+        Predict!
+    </ion-button>
+    </ion-card-content>
+  </ion-card>
+</ion-content>  </div>  

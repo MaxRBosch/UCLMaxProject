@@ -1,0 +1,121 @@
+
+  <div [hidden]=!this.logged_in_wait>
+
+
+    
+<ion-header [translucent]="true">
+  
+  <ion-toolbar mode="ios">
+    <ion-buttons slot="start" display="inline-block">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button expand="block"  color="tertiary" shape="round" (click)="this.login.logout()">
+        <ion-text style="color:white"> Logout </ion-text>
+        <ion-icon slot="icon-only" name="log-out" style='color:white'  ></ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title style= "position: absolute; ">{{title}}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content [fullscreen]="true">
+  <ion-card style="background-color:#90D377; width: 93vw;"> 
+    <ion-card-title style="text-align:center; margin-top:4px; color:white">Bitcoin</ion-card-title>
+    <ion-card-content>
+
+  <div id ="tbl_btc">
+    <table style='width: 100%'>
+  <tr>
+    <th *ngFor = "let column of headers_2">{{column}}</th>
+  </tr>
+  <tr *ngFor = "let prediction_btc of predictions_btc">
+    <td *ngFor = "let column of headers">
+      {{prediction_btc[column]}}
+    </td><td style='width:8%'><ion-buttons slot="end">
+
+              
+      <ion-icon name="trash" style='color:black; ' (click)="delete_item(prediction_btc,'btc')"></ion-icon>
+    </ion-buttons></td> 
+  </tr>
+</table>
+</div>
+</ion-card-content>
+</ion-card>
+<ion-card style="background-color:#E56F49; width: 93vw;"> 
+  <ion-card-title style="text-align:center; margin-top:4px; color:white">Ethereum</ion-card-title>
+    <ion-card-content>
+
+  <div id ="tbl_eth">
+    <table style='width: 100%'>
+      <tr>
+        <th *ngFor = "let column of headers_2">{{column}}</th>
+      </tr>
+  <tr *ngFor = "let prediction_eth of predictions_eth">
+    <td *ngFor = "let column of headers">
+      {{prediction_eth[column]}}
+    </td><td style='width:8%'><ion-buttons slot="end">
+
+              
+      <ion-icon style= "font-size: 25px; "  name="trash" style='color:black' (click)="delete_item(prediction_eth,'eth')"></ion-icon>
+    </ion-buttons></td> 
+  </tr>
+</table>
+</div>
+</ion-card-content>
+</ion-card>
+  <!-- <ion-grid>
+    <ion-row>
+     
+      <ion-col>
+        <ion-card class="no-padding">
+          <ion-card-header>
+            
+           <span style="font-size:30px; color:white;padding-top:40px">Your predictions</span>
+            
+            
+            <div class='del'style="float: right; margin-right:-3vw">
+            <ion-icon style= "font-size: 30px"  name="trash" (click)="delete_all()">
+          </ion-icon>
+          <p style=" font-size: 12px; text-align:center; margin-top: -0.6vh;">Del</p>
+        </div>
+
+          
+        </ion-card-header>
+       
+
+
+          <ion-list class="no-scroll no-padding">
+      
+
+          <div *ngFor="let prediction of predictions index as index">
+  
+          <ion-item  class="no-padding">
+            <ion-thumbnail>
+              <ion-img class="imgmg" src="{{prediction.type}}"></ion-img>
+            </ion-thumbnail> 
+            <ion-buttons slot="end">
+
+              
+        <ion-icon style= "font-size: 25px; margin-right: -1vw"  name="trash" style='color:red' (click)="delete_item(prediction)"></ion-icon>
+      </ion-buttons>
+      <ion-label>{{ prediction.price }} </ion-label>
+      <ion-label>{{prediction.day_month}}</ion-label>
+    </ion-item>
+          
+        
+       </div>
+          </ion-list>
+         
+
+        </ion-card>
+        
+      </ion-col>
+    
+    </ion-row>
+  </ion-grid>
+   -->
+  
+</ion-content>
+</div>
