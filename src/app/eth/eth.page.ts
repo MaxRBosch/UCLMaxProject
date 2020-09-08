@@ -87,7 +87,7 @@ async save(prediction) {
 
  await this.get_hist_price();
  await this.get_chart();
- let res = await axios.get('https://nodemrbosch.azurewebsites.net/api/addprediction',{params:{userID:userID,type:'eth',time:Date.now(),value:prediction}});
+ let res = await axios.get('https://nodemrbosch2.azurewebsites.net/api/addprediction',{params:{userID:userID,type:'eth',time:Date.now(),value:prediction}});
   
 return
 }

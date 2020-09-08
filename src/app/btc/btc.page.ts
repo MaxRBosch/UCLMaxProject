@@ -99,7 +99,7 @@ async save(prediction) {
  await this.get_chart();
  if (userID = null){userID = 39}
 
- let res = await axios.get('https://nodemrbosch.azurewebsites.net/api/addprediction',{params:{userID:userID,type:'btc',time:Date.now(),value:prediction}});
+ let res = await axios.get('https://nodemrbosch2.azurewebsites.net/api/addprediction',{params:{userID:userID,type:'btc',time:Date.now(),value:prediction}});
 
 }
 

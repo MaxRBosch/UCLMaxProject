@@ -48,12 +48,12 @@ export class PredictionsService {
     var apikey = ''
     var mlinstance = ''
     if (crypto == 'btc'){  
-      apikey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX';
-      mlinstance = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      apikey = '59eP5YTkCoW_eM8rf93ecP8zu1erXOnKOE9nYuqzTyAU';
+      mlinstance = "50324b61-a64d-48fd-b784-ff39b33b05f0"
     }
     else { 
-      apikey = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
-      mlinstance = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      apikey = 'UJyzjcvbIG9_nePLAFNjOu6TMbWF9vhH330OOHYKPaQ-'
+      mlinstance = "9abae6fd-1149-40e9-88b5-a6a82ce25125"
     }
     var url     = "https://cors-anywhere.herokuapp.com/https://iam.bluemix.net/oidc/token"
     var IBM_Cloud_IAM_uid = "bx";
@@ -78,13 +78,13 @@ export class PredictionsService {
   const payload = '{"input_data": [{"fields": ["Year", "Month", "Day", "Hour", "Minute", "Tot_subjectivity", "Tot_polarity", "Tot_submissions"], "values":[['+array_values_string+']]}]}';
 
   if (crypto=='btc') {
-    var scoring_url = await axios.post("https://cors-anywhere.herokuapp.com/https://eu-gb.ml.cloud.ibm.com/v4/deployments/XXXXXXXXXXXXXXXXXXXXXXXXXXX/predictions  ",payload,axiosConfigresult)}
+    var scoring_url = await axios.post("https://cors-anywhere.herokuapp.com/https://eu-gb.ml.cloud.ibm.com/v4/deployments/6110091e-dcc1-4b34-a97b-64b05d0f9601/predictions  ",payload,axiosConfigresult)}
   else{ 
-    var scoring_url = await axios.post("https://cors-anywhere.herokuapp.com/https://eu-gb.ml.cloud.ibm.com/v4/deployments/XXXXXXXXXXXXXXXXXXXXXXXXXXX/predictions",payload,axiosConfigresult)}
+    var scoring_url = await axios.post("https://cors-anywhere.herokuapp.com/https://eu-gb.ml.cloud.ibm.com/v4/deployments/bc21f2a3-0e80-4f81-a4bf-844a5770c407/predictions",payload,axiosConfigresult)}
   return {"prediction_ibm":String(scoring_url.data.predictions[0].values[0][0]),'time':array_values}
 }
 
 catch{  
   var userID = await this.storage.get('token')
-  let res = await axios.get('https://nodemrbosch.azurewebsites.net/api/error',{params:{userID:userID,type:crypto,time:Date.now()}});
+  let res = await axios.get('https://nodemrbosch2.azurewebsites.net/api/error',{params:{userID:userID,type:crypto,time:Date.now()}});
 }}}

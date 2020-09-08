@@ -88,7 +88,7 @@ messages = {
     try{
       Swal.fire('Logging you in')
       Swal.showLoading()
-      let res = await axios.get('https://nodemrbosch.azurewebsites.net/api/checklogin',{params: {email: details.email}});
+      let res = await axios.get('https://nodemrbosch2.azurewebsites.net/api/checklogin',{params: {email: details.email}});
       try{
         if (await bcrypt.compare(details.password,res.data[0].password))   {
           this.storage.set('token', res.data[0].userID)
@@ -132,7 +132,7 @@ messages = {
 
 async register(details) {
   try{
-  let res = await axios.get('https://nodemrbosch.azurewebsites.net/api/getaccounts');
+  let res = await axios.get('https://nodemrbosch2.azurewebsites.net/api/getaccounts');
   var j
 var usernames = []
 var emails = []
@@ -165,7 +165,7 @@ if (duplicate ==3) {
 
     if (duplicate == 0){
 try{
- const vali = await axios.get('https://nodemrbosch.azurewebsites.net/api/registeruser', {params: details})
+ const vali = await axios.get('https://nodemrbosch2.azurewebsites.net/api/registeruser', {params: details})
 
 if (vali.status==200){
   Swal.fire({
