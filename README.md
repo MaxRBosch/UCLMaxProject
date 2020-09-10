@@ -1,6 +1,6 @@
 Overall instructions 
 =============
-All the code for the app is present here. The Python folder contains the python scripts that were used to adjust the data. Currently, a free Azure account is used to host the MySQL database and the Node.js app. I noticed that these accounts can runout after some time so if an error messages with "You have no internet connection" turns up when trying to interact with the app, please create a new Azure account with the respective subscription. 
+All the code for the app is present here. The Python folder contains the python scripts that were used to adjust the data. Currently, a free Azure account is used to host the MySQL database and the Node.js app. I noticed that these accounts can runout after some time so if an error messages with "You have no internet connection" turns up when trying to interact with the app, please create a new Azure account and add a new subscription. 
 
 System manual
 =============
