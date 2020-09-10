@@ -432,6 +432,15 @@ try{
           if (!value) {
             return 'You need to write something!'
           }
+          if (Number(value) > this.bitcoin[this.bitcoin.length - 1].amount){ 
+            return 'You do not have that many bitcoin!'}
+            
+            else if ( isNaN(parseInt(value)) == true){
+          
+
+          
+              return  "Incorrect input"}
+        
          
         }
       })      
@@ -469,9 +478,18 @@ try{
         if (!value) {
           return 'You need to write something!'
         }
+        if (Number(value) > this.ethereum[this.ethereum.length - 1].amount){ 
+          return 'You do not have that many bitcoin!'}
+          
+          else if ( isNaN(parseInt(value)) == true){
         
 
+        
+            return  "Incorrect input"}
+      
+       
       }
+    
     }) 
     if (buying) {
       Swal.fire({
